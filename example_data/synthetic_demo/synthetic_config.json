@@ -1,0 +1,5 @@
+{
+  "fault_separation": 800.0,
+  "n_per_zone": 80,
+  "seed": 20260705
+}

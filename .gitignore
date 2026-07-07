@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# Local generated outputs
+outputs/
+outputs_local/
+tmp/
+scratch/
+*.log
+reports/COORDINATE_DESENSITIZATION_REPORT.md
+
+# Large/restricted local data should never be committed
+raw_data/
+restricted_data/
+original_data/
+*.tif
+*.tiff
+*.las
+*.edi
+*.grd
+*.npy
+*.npz
+
+# Keep package figures intentionally small and explicit.
+!figures/*.png
+!figures/*.pdf
+!figures/*.svg

@@ -1,0 +1,3 @@
+﻿result_type,zone,n,median_dsi,p10_dsi,p25_dsi,p75_dsi,p90_dsi,classification,definition,notes
+REAL_CASE_RESULT,MZ-I,86,6.7,,,,,HIGH_MARGIN_STABLE,Eq5_plan_distance_to_nearest_competing_named_fault,SUMMARY_ONLY; all-point Eq5 summary supplied by manuscript; matching point-level all-point DSI table not found in B1 inputs
+REAL_CASE_RESULT,MZ-II,141,15.3,,,,,HIGH_MARGIN_STABLE,Eq5_plan_distance_to_nearest_competing_named_fault,SUMMARY_ONLY; all-point Eq5 summary supplied by manuscript; matching point-level all-point DSI table not found in B1 inputs

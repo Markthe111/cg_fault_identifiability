@@ -1,0 +1,7 @@
+﻿metric,n,positive_fraction,roc_auc_rank_only,pr_auc_rank_only,note
+DSI_2D,18000,0.7614444444444445,0.9384762577844903,0.9817577113484797,2D/3D pair is construction-identical in ID benchmark
+DSI_3D,18000,0.7614444444444445,0.9384762577844903,0.9817577113484797,2D/3D pair is construction-identical in ID benchmark
+distance_diff_2D,18000,0.7614444444444445,0.9814336392609969,0.9943260347274543,2D/3D pair is construction-identical in ID benchmark
+distance_diff_3D,18000,0.7614444444444445,0.9814336392609969,0.9943260347274543,2D/3D pair is construction-identical in ID benchmark
+normalized_margin_2D,18000,0.7614444444444445,0.9387186050448872,0.981821088359563,2D/3D pair is construction-identical in ID benchmark
+normalized_margin_3D,18000,0.7614444444444445,0.9387186050448872,0.981821088359563,2D/3D pair is construction-identical in ID benchmark

@@ -1,0 +1,1363 @@
+﻿point_id,section_id,zone,point_class,is_primary,is_nearby,metric,distance_type,associated_fault,competing_fault,value,units
+ORE_0000,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,9.418727004108767,m
+ORE_0000,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.8642455919962,m
+ORE_0000,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,157.2255194301728,ratio
+ORE_0000,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,1.5036948321874175,m
+ORE_0000,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,368.34907008707506,m
+ORE_0000,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,244.96264947006532,ratio
+ORE_0001,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,7.931966853858347,m
+ORE_0001,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.428511557123,m
+ORE_0001,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,186.64078391061332,ratio
+ORE_0001,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,2.9746029206207685,m
+ORE_0001,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,366.7554015909996,m
+ORE_0001,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,123.29558310070563,ratio
+ORE_0002,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,9.491923567841203,m
+ORE_0002,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.7201343730817,m
+ORE_0002,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,155.89254631025457,ratio
+ORE_0002,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,9.383597434453552,m
+ORE_0002,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,359.81152021752183,m
+ORE_0002,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,38.34473108324209,ratio
+ORE_0003,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,13.331905609582105,m
+ORE_0003,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.540295736709,m
+ORE_0003,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,110.97740556108586,ratio
+ORE_0003,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,13.691275690975278,m
+ORE_0003,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,355.1443281377317,m
+ORE_0003,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,25.939462191374037,ratio
+ORE_0004,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.59892898461935,m
+ORE_0004,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.5368995084784,m
+ORE_0004,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,84.0697124695216,ratio
+ORE_0004,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,19.890172985562895,m
+ORE_0004,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,348.4281236585835,m
+ORE_0004,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,17.517601476442007,ratio
+ORE_0005,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,10.011538737256403,m
+ORE_0005,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.348138559284,m
+ORE_0005,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,147.86419724376591,ratio
+ORE_0005,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,40.51223335117798,m
+ORE_0005,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,326.85658197482394,m
+ORE_0005,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,8.068095854935628,ratio
+ORE_0006,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,7.33294841997593,m
+ORE_0006,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.5947091094624,m
+ORE_0006,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,201.90987639789267,ratio
+ORE_0006,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,44.181497688015114,m
+ORE_0006,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,323.0431508630501,m
+ORE_0006,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,7.311729293203212,ratio
+ORE_0007,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,10.919304046790655,m
+ORE_0007,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.4495992013483,m
+ORE_0007,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,135.7641103177324,ratio
+ORE_0007,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,65.86854322019427,m
+ORE_0007,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,300.504014789403,m
+ORE_0007,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.562177939549044,ratio
+ORE_0008,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,14.081545571356727,m
+ORE_0008,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.762963996303,m
+ORE_0008,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,105.36932586536703,ratio
+ORE_0008,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,79.1764954214419,m
+ORE_0008,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,286.67318868701653,m
+ORE_0008,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.620685497142908,ratio
+ORE_0009,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,20.08256149936672,m
+ORE_0009,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1485.5752173653575,m
+ORE_0009,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,73.97339315565912,ratio
+ORE_0009,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,93.08687256131778,m
+ORE_0009,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,272.2162686264952,m
+ORE_0009,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.924325000253737,ratio
+ORE_0010,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,24.409121707213085,m
+ORE_0010,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1487.0591951674664,m
+ORE_0010,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,60.922273771449504,ratio
+ORE_0010,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,103.87562535482883,m
+ORE_0010,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,261.0036222838973,m
+ORE_0010,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.512655123782262,ratio
+ORE_0011,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,28.865994363240493,m
+ORE_0011,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1488.5609368250095,m
+ORE_0011,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,51.56797711845406,ratio
+ORE_0011,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,112.64392059261242,m
+ORE_0011,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,251.89711583487923,m
+ORE_0011,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.2362246849156593,ratio
+ORE_0012,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,29.176255710719524,m
+ORE_0012,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1488.8038658378618,m
+ORE_0012,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,51.027927661425956,ratio
+ORE_0012,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,114.23751690604689,m
+ORE_0012,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,250.24662443825255,m
+ORE_0012,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.190581791479804,ratio
+ORE_0013,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,28.228123968991262,m
+ORE_0013,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1488.825532254672,m
+ORE_0013,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,52.74263121028356,ratio
+ORE_0013,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,113.57789895517179,m
+ORE_0013,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,250.9295796458006,m
+ORE_0013,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.209316970591614,ratio
+ORE_0014,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,23.367091484141124,m
+ORE_0014,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1487.3043957107575,m
+ORE_0014,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,63.649530225880596,ratio
+ORE_0014,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,103.9303903878637,m
+ORE_0014,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,260.9467055724976,m
+ORE_0014,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.5107834638035693,ratio
+ORE_0015,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,20.79644627102748,m
+ORE_0015,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1485.9746699894151,m
+ORE_0015,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,71.45329786751101,ratio
+ORE_0015,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,94.56553726204984,m
+ORE_0015,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,270.6795068752396,m
+ORE_0015,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.862348321726991,ratio
+ORE_0016,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,14.05140350933686,m
+ORE_0016,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.8991338081294,m
+ORE_0016,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,105.60504741196208,ratio
+ORE_0016,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,78.90267056375502,m
+ORE_0016,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,286.9577724073694,m
+ORE_0016,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.6368575405252157,ratio
+ORE_0017,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,6.810515589142274,m
+ORE_0017,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.8637668795277,m
+ORE_0017,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,217.73149880804863,ratio
+ORE_0017,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,69.20921751212379,m
+ORE_0017,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,297.03208402817825,m
+ORE_0017,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.29179948431212,ratio
+ORE_0018,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,11.145010304388464,m
+ORE_0018,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.4106353214015,m
+ORE_0018,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,133.0111498181107,ratio
+ORE_0018,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,64.5541734661854,m
+ORE_0018,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,301.8700263233805,m
+ORE_0018,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.676227889146552,ratio
+ORE_0019,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,12.54096325098332,m
+ORE_0019,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1481.049726040993,m
+ORE_0019,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,118.09696722656976,ratio
+ORE_0019,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,49.21990653952211,m
+ORE_0019,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,317.80678145624006,m
+ORE_0019,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.456874947559089,ratio
+ORE_0020,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,9.177220782585213,m
+ORE_0020,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.5772597025411,m
+ORE_0020,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,161.33176860167728,ratio
+ORE_0020,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,42.15519299681081,m
+ORE_0020,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,325.1490700081561,m
+ORE_0020,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,7.7131439069145005,ratio
+ORE_0021,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,15.715009468235056,m
+ORE_0021,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.178021106003,m
+ORE_0021,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,94.18880873714427,ratio
+ORE_0021,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,35.36429443268107,m
+ORE_0021,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,332.2067848053616,m
+ORE_0021,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,9.393847385750771,ratio
+ORE_0022,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,18.24713840428828,m
+ORE_0022,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.550777131226,m
+ORE_0022,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,81.08398940973206,ratio
+ORE_0022,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,18.734407855552448,m
+ORE_0022,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,349.68030177068977,m
+ORE_0022,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,18.66513766897909,ratio
+ORE_0023,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,16.301673882326977,m
+ORE_0023,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.526735447242,m
+ORE_0023,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,90.75919111909306,ratio
+ORE_0023,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,16.42297149992892,m
+ORE_0023,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,352.1846480264659,m
+ORE_0023,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,21.44463613226085,ratio
+ORE_0024,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,15.280066136508228,m
+ORE_0024,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.5717805229085,m
+ORE_0024,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,96.83019479790141,ratio
+ORE_0024,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,11.169699978540454,m
+ORE_0024,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,357.87635128876565,m
+ORE_0024,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,32.03992515254017,ratio
+ORE_0025,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,9.343607660350678,m
+ORE_0025,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.4536075063286,m
+ORE_0025,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,158.44560916107272,ratio
+ORE_0025,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,1.5562273310413917,m
+ORE_0025,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,368.29215337567524,m
+ORE_0025,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,236.65703977144688,ratio
+ORE_0026,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,9.507104728295666,m
+ORE_0026,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.908288507987,m
+ORE_0026,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,155.7685889480539,ratio
+ORE_0026,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,0.1903746119163247,m
+ORE_0026,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,369.77199841459344,m
+ORE_0026,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,1942.3388165703482,ratio
+ORE_0027,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,4.703791826637399,m
+ORE_0027,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.6671403172254,m
+ORE_0027,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,314.7816049027217,ratio
+ORE_0027,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,53.05347585639157,m
+ORE_0027,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,313.82259024275874,m
+ORE_0027,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,5.915212626072477,ratio
+ORE_0028,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.952664495905395,m
+ORE_0028,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.0054604682314,m
+ORE_0028,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,82.60642651715972,ratio
+ORE_0028,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,80.92898513496688,m
+ORE_0028,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,284.85184329568335,m
+ORE_0028,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.5197753044923306,ratio
+ORE_0029,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,34.69803307314576,m
+ORE_0029,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1487.4507740055826,m
+ORE_0029,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,42.8684464871521,ratio
+ORE_0029,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,114.29249784379043,m
+ORE_0029,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,250.1897116902969,m
+ORE_0029,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.189030044931246,ratio
+ORE_0030,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,33.51139806311068,m
+ORE_0030,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1487.449676148475,m
+ORE_0030,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,44.386380817273576,ratio
+ORE_0030,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,113.30314227215158,m
+ORE_0030,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,251.21414546230355,m
+ORE_0030,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.2171860411328477,ratio
+ORE_0031,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,16.901740529992722,m
+ORE_0031,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.095224339316,m
+ORE_0031,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,87.74807669704268,ratio
+ORE_0031,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,80.709925156129,m
+ORE_0031,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,285.079510223433,m
+ORE_0031,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.532149356748405,ratio
+ORE_0032,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,4.39616695238386,m
+ORE_0032,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.6770642938843,m
+ORE_0032,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,336.8109265029105,ratio
+ORE_0032,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,52.12246102612138,m
+ORE_0032,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,314.7901846335745,m
+ORE_0032,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.039434409588146,ratio
+ORE_0033,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,13.82414758741011,m
+ORE_0033,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1481.2064243238242,m
+ORE_0033,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,107.14631155072335,ratio
+ORE_0033,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,7.531930492922445,m
+ORE_0033,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,378.1387981490097,m
+ORE_0033,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,50.204764702002585,ratio
+ORE_0034,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.36722222554528,m
+ORE_0034,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.721043635342,m
+ORE_0034,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,85.25952074577383,ratio
+ORE_0034,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,5.1679619080769195,m
+ORE_0034,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,375.57753510062093,m
+ORE_0034,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,72.67420731442257,ratio
+ORE_0035,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.80504497893657,m
+ORE_0035,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.978397227401,m
+ORE_0035,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,83.12129505868818,ratio
+ORE_0035,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,0.1378421130623501,m
+ORE_0035,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,369.82891512599326,m
+ORE_0035,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2682.989305008032,ratio
+ORE_0036,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.30403380776172,m
+ORE_0036,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.7848492849346,m
+ORE_0036,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,85.51675671259828,ratio
+ORE_0036,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,2.396746238567053,m
+ORE_0036,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,367.38148566375804,m
+ORE_0036,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,153.2834305743628,ratio
+ORE_0037,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,20.576836162489407,m
+ORE_0037,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.5926786478117,m
+ORE_0037,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,71.9057423096481,ratio
+ORE_0037,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,9.12092557878828,m
+ORE_0037,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,360.09611382417944,m
+ORE_0037,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,39.4802162032352,ratio
+ORE_0038,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,23.744489700988616,m
+ORE_0038,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.7858688226236,m
+ORE_0038,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,62.321232734726316,ratio
+ORE_0038,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,19.73253362106682,m
+ORE_0038,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,348.5988738749239,m
+ORE_0038,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,17.666199413072494,ratio
+ORE_0039,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,19.42761274653495,m
+ORE_0039,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.4489112323197,m
+ORE_0039,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,76.20333648540364,ratio
+ORE_0039,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,31.36643032421242,m
+ORE_0039,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,336.3617263164058,m
+ORE_0039,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,10.723621490863785,ratio
+ORE_0040,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,19.790518457952377,m
+ORE_0040,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.9684383164383,m
+ORE_0040,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,74.83222036163203,ratio
+ORE_0040,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,37.66443401668586,m
+ORE_0040,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,329.816272053598,m
+ORE_0040,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,8.756703257706857,ratio
+ORE_0041,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.213555537749755,m
+ORE_0041,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.1416770573042,m
+ORE_0041,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,86.10316873855204,ratio
+ORE_0041,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,51.02716128517972,m
+ORE_0041,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,315.9285193544448,m
+ORE_0041,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.191379480994228,ratio
+ORE_0042,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,9.468872574886348,m
+ORE_0042,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.9048541711516,m
+ORE_0042,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,156.71399550848454,ratio
+ORE_0042,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,68.22344768303009,m
+ORE_0042,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,298.0565852450267,m
+ORE_0042,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.368829124992541,ratio
+ORE_0043,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,4.100055635659649,m
+ORE_0043,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1484.940167150786,m
+ORE_0043,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,362.1756139686815,ratio
+ORE_0043,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,76.82159095952626,m
+ORE_0043,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,289.12061823046463,m
+ORE_0043,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.7635333324818654,ratio
+ORE_0044,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,11.496646304367143,m
+ORE_0044,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1486.6348668790308,m
+ORE_0044,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,129.31030732973966,ratio
+ORE_0044,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,89.58189329029408,m
+ORE_0044,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,275.8589594885087,m
+ORE_0044,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.079405327978228,ratio
+ORE_0045,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.99999866745368,m
+ORE_0045,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1488.0504768040196,m
+ORE_0045,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,82.66947705360705,ratio
+ORE_0045,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,99.11105124191849,m
+ORE_0045,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,265.95539800283683,m
+ORE_0045,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.6834081030345525,ratio
+ORE_0046,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.924326843288615,m
+ORE_0046,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1489.5558481923931,m
+ORE_0046,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,83.10247080492877,ratio
+ORE_0046,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,107.87348946329747,m
+ORE_0046,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,256.8487056212866,m
+ORE_0046,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.381017865456888,ratio
+ORE_0047,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,17.24181058973224,m
+ORE_0047,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1489.6760183701851,m
+ORE_0047,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,86.39904786202152,ratio
+ORE_0047,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,107.5448995716735,m
+ORE_0047,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,257.1901999902618,m
+ORE_0047,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.3914681311209645,ratio
+ORE_0048,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,15.676816404129696,m
+ORE_0048,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1488.250152094941,m
+ORE_0048,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,94.93318756370049,ratio
+ORE_0048,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,98.56340137143867,m
+ORE_0048,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,266.52456536326724,m
+ORE_0048,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.7040926109972876,ratio
+ORE_0049,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,9.745484402403571,m
+ORE_0049,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1486.4724678362925,m
+ORE_0049,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,152.52935682393348,ratio
+ORE_0049,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,87.11745876046834,m
+ORE_0049,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,278.4202224566128,m
+ORE_0049,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.195917631414574,ratio
+ORE_0050,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,5.567893595400533,m
+ORE_0050,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1485.0998499332936,m
+ORE_0050,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,266.7256161576236,ratio
+ORE_0050,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,76.60253097975024,m
+ORE_0050,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,289.348285159133,m
+ORE_0050,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.777267950005748,ratio
+ORE_0051,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,10.224401295917138,m
+ORE_0051,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.9027540176753,m
+ORE_0051,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,145.13346171283743,ratio
+ORE_0051,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,66.41619309159425,m
+ORE_0051,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,299.9348474280443,m
+ORE_0051,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.51598975289664,ratio
+ORE_0052,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,11.477151517537491,m
+ORE_0052,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.9244717977829,m
+ORE_0052,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,129.20666504505252,ratio
+ORE_0052,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,56.99657493182535,m
+ORE_0052,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,309.72456544311433,m
+ORE_0052,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,5.434090834643688,ratio
+ORE_0053,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,18.36415195355488,m
+ORE_0053,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1481.7645910065555,m
+ORE_0053,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,80.68788554756648,ratio
+ORE_0053,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,44.34580251384362,m
+ORE_0053,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,322.8723906801296,m
+ORE_0053,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,7.280788087651298,ratio
+ORE_0054,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,21.56310852367012,m
+ORE_0054,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.9428393046478,m
+ORE_0054,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,68.6794688103061,ratio
+ORE_0054,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,35.0357045410571,m
+ORE_0054,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,332.5482852380519,m
+ORE_0054,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,9.491696815982403,ratio
+ORE_0055,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,24.09047488367,m
+ORE_0055,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.0184027978885,m
+ORE_0055,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,61.43583345470436,ratio
+ORE_0055,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,21.530830121307616,m
+ORE_0055,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,346.6636949795877,m
+ORE_0055,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,16.100804893561346,ratio
+ORE_0056,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,23.492907974866387,m
+ORE_0056,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.6222327429766,m
+ORE_0056,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,62.98165532874573,ratio
+ORE_0056,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,8.17534194315526,m
+ORE_0056,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,361.12061504009955,m
+ORE_0056,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,44.17192792069632,ratio
+ORE_0057,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,21.019839787207957,m
+ORE_0057,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.0531764109107,m
+ORE_0057,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,70.41220063492713,ratio
+ORE_0057,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,2.8039930535994166,m
+ORE_0057,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,373.01627213344517,m
+ORE_0057,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,133.03038381447251,ratio
+ORE_0058,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,18.41750146525567,m
+ORE_0058,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.7371204361257,m
+ORE_0058,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,80.3983712573344,ratio
+ORE_0058,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,6.428740000228932,m
+ORE_0058,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,376.9435367501597,m
+ORE_0058,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,58.634123753136144,ratio
+ORE_0059,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,14.976739066361253,m
+ORE_0059,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1481.2581008775453,m
+ORE_0059,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,98.90391321596495,ratio
+ORE_0059,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,8.845250983690958,m
+ORE_0059,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,379.56172639625294,m
+ORE_0059,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,42.91135741609775,ratio
+ORE_0060,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,35.96809306539577,m
+ORE_0060,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.580731071461,m
+ORE_0060,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,41.21933093244313,ratio
+ORE_0060,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,33.4830746562726,m
+ORE_0060,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,406.25579401436414,m
+ORE_0060,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,12.133168718370898,ratio
+ORE_0061,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,28.18074608076809,m
+ORE_0061,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1481.3588703992202,m
+ORE_0061,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,52.566346758653474,ratio
+ORE_0061,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,24.552513789638116,m
+ORE_0061,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,396.5798995376453,m
+ORE_0061,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,16.15231348347776,ratio
+ORE_0062,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,31.593812662846005,m
+ORE_0062,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.801494185681,m
+ORE_0062,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,46.869984005668556,ratio
+ORE_0062,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,19.772043850564284,m
+ORE_0062,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,391.4004568097528,m
+ORE_0062,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,19.79564984621367,ratio
+ORE_0063,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,32.756147299999874,m
+ORE_0063,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.2377008190645,m
+ORE_0063,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,45.18961547162996,ratio
+ORE_0063,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,13.73078592047274,m
+ORE_0063,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,384.85500254694495,m
+ORE_0063,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,28.028621578982033,ratio
+ORE_0064,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,31.243252728099176,m
+ORE_0064,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.7861709739595,m
+ORE_0064,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,47.363383827289134,ratio
+ORE_0064,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,1.9634645158804294,m
+ORE_0064,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,372.10559445402913,m
+ORE_0064,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,189.51480479756708,ratio
+ORE_0065,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,32.97846410215556,m
+ORE_0065,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.931693246726,m
+ORE_0065,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,44.87570096237422,ratio
+ORE_0065,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,7.387355534452182,m
+ORE_0065,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,361.97436604060766,m
+ORE_0065,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,48.999180336248735,ratio
+ORE_0066,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,33.2543313081501,m
+ORE_0066,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.6526259231143,m
+ORE_0066,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,44.5251059840205,ratio
+ORE_0066,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,19.049602311174606,m
+ORE_0066,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,349.33880133799954,m
+ORE_0066,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,18.338377653851357,ratio
+ORE_0067,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,30.891749572835693,m
+ORE_0067,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.435268412916,m
+ORE_0067,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,47.988064415635385,ratio
+ORE_0067,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,37.00725407923409,m
+ORE_0067,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,330.4992728377656,m
+ORE_0067,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,8.930661867809828,ratio
+ORE_0068,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,23.83264397720702,m
+ORE_0068,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1484.6848591939513,m
+ORE_0068,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,62.29627147595831,ratio
+ORE_0068,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,52.39628603893226,m
+ORE_0068,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,314.50560099350633,m
+ORE_0068,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.002440721844631,ratio
+ORE_0069,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,21.111201864474115,m
+ORE_0069,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1486.5988280612844,m
+ORE_0069,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,70.41753650998571,ratio
+ORE_0069,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,62.96597885266728,m
+ORE_0069,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,303.5206215795768,m
+ORE_0069,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.820390742908613,ratio
+ORE_0070,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,20.50314943623309,m
+ORE_0070,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1488.1776324161085,m
+ORE_0070,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,72.58287986655388,ratio
+ORE_0070,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,71.61889688800203,m
+ORE_0070,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,294.52772780582217,m
+ORE_0070,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.112430386444042,ratio
+ORE_0071,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,16.03637587277755,m
+ORE_0071,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1490.2541975343154,m
+ORE_0071,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,92.92961261054545,ratio
+ORE_0071,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,84.16013939411783,m
+ORE_0071,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,281.4937360728193,m
+ORE_0071,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.3447394229541114,ratio
+ORE_0072,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,7.28565486216875,m
+ORE_0072,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1492.2923016129737,m
+ORE_0072,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,204.8261041518452,ratio
+ORE_0072,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,95.55130709114354,m
+ORE_0072,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,269.6550056583912,m
+ORE_0072,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.822096461759286,ratio
+ORE_0073,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,5.819262262243857,m
+ORE_0073,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1494.5010376653536,m
+ORE_0073,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,256.81967409543887,ratio
+ORE_0073,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,106.12099990489651,m
+ORE_0073,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,258.670028568781,m
+ORE_0073,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.4375008603442847,ratio
+ORE_0074,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,7.675840050466687,m
+ORE_0074,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1494.8222058339486,m
+ORE_0074,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,194.7437929928027,ratio
+ORE_0074,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,102.88985552575309,m
+ORE_0074,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,262.0281235007552,m
+ORE_0074,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.5466856976504375,ratio
+ORE_0075,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,13.967416319909695,m
+ORE_0075,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1491.8623767439296,m
+ORE_0075,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,106.81018898372574,ratio
+ORE_0075,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,87.00792884860243,m
+ORE_0075,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,278.53405596062515,m
+ORE_0075,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,3.2012491234596157,ratio
+ORE_0076,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,24.467674038069703,m
+ORE_0076,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1489.1647180009556,m
+ORE_0076,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,60.8625370635532,ratio
+ORE_0076,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,70.35929232123186,m
+ORE_0076,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,295.8368227096129,m
+ORE_0076,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.204658872334055,ratio
+ORE_0077,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,27.52575550979073,m
+ORE_0077,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1487.9837242086253,m
+ORE_0077,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,54.05787040720315,ratio
+ORE_0077,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,63.84222864898242,m
+ORE_0077,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,302.60994390108914,m
+ORE_0077,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.739965228421148,ratio
+ORE_0078,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,30.24943008308813,m
+ORE_0078,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1485.6627194697126,m
+ORE_0078,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,49.11374248668301,ratio
+ORE_0078,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,51.958166081238545,m
+ORE_0078,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,314.9609348489961,m
+ORE_0078,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.061817777720307,ratio
+ORE_0079,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,34.369118224866234,m
+ORE_0079,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.5125790928305,m
+ORE_0079,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,43.16411522072456,ratio
+ORE_0079,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,37.66443401668586,m
+ORE_0079,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,329.816272053598,m
+ORE_0079,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,8.756703257706857,ratio
+ORE_0080,K00,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,39.09480913383177,m
+ORE_0080,K00,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1481.5141759437397,m
+ORE_0080,K00,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,37.89541907909382,ratio
+ORE_0080,K00,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,20.734386168879983,m
+ORE_0080,K00,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,347.51745594667574,m
+ORE_0080,K00,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,16.760440994788695,ratio
+ORE_0081,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,39.02645632842592,m
+ORE_0081,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.244163552104,m
+ORE_0081,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,37.92924858703941,ratio
+ORE_0081,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,6.389229769834641,m
+ORE_0081,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,363.0557939354453,m
+ORE_0081,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,56.823092456235386,ratio
+ORE_0082,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,36.03603881992759,m
+ORE_0082,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.8979005347703,m
+ORE_0082,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,41.067163567278676,ratio
+ORE_0082,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,0.03277738408954969,m
+ORE_0082,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,369.9427486309339,m
+ORE_0082,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,11286.524501779311,ratio
+ORE_0083,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,35.43897798046608,m
+ORE_0083,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1479.958085950827,m
+ORE_0083,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,41.76074396859238,ratio
+ORE_0083,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,9.633237391497204,m
+ORE_0083,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,380.41547739583274,m
+ORE_0083,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,39.48988921747192,ratio
+ORE_0084,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,33.64534322018069,m
+ORE_0084,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1480.6767763405323,m
+ORE_0084,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,44.00837187633185,ratio
+ORE_0084,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,20.560030259267357,m
+ORE_0084,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,392.25420781026077,m
+ORE_0084,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,19.078483974188394,ratio
+ORE_0085,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,31.072287767081036,m
+ORE_0085,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1481.3356779751716,m
+ORE_0085,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,47.67385295473948,ratio
+ORE_0085,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,26.86395977542358,m
+ORE_0085,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,399.08425576092964,m
+ORE_0085,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,14.85574945381026,ratio
+ORE_0086,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,34.08531396638282,m
+ORE_0086,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1482.0491279584835,m
+ORE_0086,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,43.480577277949614,ratio
+ORE_0086,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,33.378009658596035,m
+ORE_0086,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,406.14196059155523,m
+ORE_0086,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,12.167950238667364,ratio
+ORE_0087,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,45.532021700477685,m
+ORE_0087,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.2518755034437,m
+ORE_0087,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,32.57601617737704,ratio
+ORE_0087,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,42.728820079663535,m
+ORE_0087,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,416.2731790383967,m
+ORE_0087,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,9.742210954159223,ratio
+ORE_0088,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,46.78846818917427,m
+ORE_0088,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1483.4013048332477,m
+ORE_0088,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,31.70442124404644,ratio
+ORE_0088,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,43.14908916315558,m
+ORE_0088,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,416.7285228613947,m
+ORE_0088,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,9.657875309619131,ratio
+ORE_0089,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,107.31327641274416,m
+ORE_0089,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1489.216542532926,m
+ORE_0089,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,13.877281472659163,ratio
+ORE_0089,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,101.26293088609864,m
+ORE_0089,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,482.26522177223086,m
+ORE_0089,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.762505070238256,ratio
+ORE_0090,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,99.84600840697928,m
+ORE_0090,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1487.956699129016,m
+ORE_0090,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,14.902515612481983,ratio
+ORE_0090,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,96.85996524427237,m
+ORE_0090,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,477.4072345107665,m
+ORE_0090,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.928839622302023,ratio
+ORE_0091,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,101.02659670567286,m
+ORE_0091,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1488.06612871913,m
+ORE_0091,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,14.72944924646335,ratio
+ORE_0091,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,98.29348293945183,m
+ORE_0091,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,478.9888982737109,m
+ORE_0091,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.873048384792358,ratio
+ORE_0092,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,108.91977876598608,m
+ORE_0092,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1489.4115231366322,m
+ORE_0092,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,13.674389904304064,ratio
+ORE_0092,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,102.9524431022038,m
+ORE_0092,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,484.1293354882907,m
+ORE_0092,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.702456016587016,ratio
+ORE_0093,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,155.53857332134857,m
+ORE_0093,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1496.3622695774518,m
+ORE_0093,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,9.620522019871629,ratio
+ORE_0093,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F9,147.38430727157828,m
+ORE_0093,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F9,517.3880028310552,m
+ORE_0093,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F9,3.510468735845046,ratio
+ORE_0094,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,149.02915034220462,m
+ORE_0094,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1495.0221396624297,m
+ORE_0094,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,10.031743026310766,ratio
+ORE_0094,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F9,142.97812590458764,m
+ORE_0094,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F9,522.4006211081548,m
+ORE_0094,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F9,3.653710088889848,ratio
+ORE_0095,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,149.82757629444998,m
+ORE_0095,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1495.113609889331,m
+ORE_0095,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,9.978894719294168,ratio
+ORE_0095,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F9,144.1798064870936,m
+ORE_0095,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F9,521.0335474323925,m
+ORE_0095,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F9,3.6137761599717044,ratio
+ORE_0096,K00,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,157.39289024010796,m
+ORE_0096,K00,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1496.6909212792496,m
+ORE_0096,K00,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,9.509266390597434,ratio
+ORE_0096,K00,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F9,149.18683800311697,m
+ORE_0096,K00,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F9,515.3373884747904,m
+ORE_0096,K00,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F9,3.4543086734234785,ratio
+ORE_0097,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,93.14496584453346,m
+ORE_0097,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1233.1392206832131,m
+ORE_0097,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,13.238925040151102,ratio
+ORE_0097,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,93.06066798469315,m
+ORE_0097,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,420.88351911688875,m
+ORE_0097,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.522678895729791,ratio
+ORE_0098,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,82.06531946727266,m
+ORE_0098,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1234.5160562701235,m
+ORE_0098,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,15.04309084865555,ratio
+ORE_0098,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,70.21126607307465,m
+ORE_0098,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,397.7024987174977,m
+ORE_0098,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,5.66436871119196,ratio
+ORE_0099,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,73.91839872142002,m
+ORE_0099,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1237.9237183347473,m
+ORE_0099,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,16.747166331351043,ratio
+ORE_0099,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,44.72736323442752,m
+ORE_0099,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,371.8444055442024,m
+ORE_0099,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,8.313577610092306,ratio
+ORE_0100,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,63.29237971703591,m
+ORE_0100,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1243.4345068846333,m
+ORE_0100,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,19.645880158776016,ratio
+ORE_0100,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,15.890962748208768,m
+ORE_0100,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,342.8474961761572,m
+ORE_0100,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,21.574998419450896,ratio
+ORE_0101,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,54.56521890380729,m
+ORE_0101,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1251.538306680858,m
+ORE_0101,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,22.93655797271129,ratio
+ORE_0101,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,16.074448475172,m
+ORE_0101,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,310.7175766094848,m
+ORE_0101,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,19.329905911820717,ratio
+ORE_0102,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,43.37464163728488,m
+ORE_0102,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1267.3845947959016,m
+ORE_0102,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,29.219482788912696,ratio
+ORE_0102,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,63.254424108048774,m
+ORE_0102,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,263.1608669688722,m
+ORE_0102,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.160355116337016,ratio
+ORE_0103,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,45.00576346056814,m
+ORE_0103,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1285.6940484868528,m
+ORE_0103,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,28.567320041427923,ratio
+ORE_0103,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,106.33393587753976,m
+ORE_0103,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,219.66334856153946,m
+ORE_0103,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.065787810342282,ratio
+ORE_0104,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,63.953301032206525,m
+ORE_0104,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1296.255949138818,m
+ORE_0104,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,20.268788760192862,ratio
+ORE_0104,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,129.93919468797384,m
+ORE_0104,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,195.76167954770256,m
+ORE_0104,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,1.5065637432784609,ratio
+ORE_0105,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,60.059099677424776,m
+ORE_0105,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1296.4995328030946,m
+ORE_0105,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,21.587062406305556,ratio
+ORE_0105,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,140.35240193033908,m
+ORE_0105,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,185.0534791792062,m
+ORE_0105,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,1.3184917153826377,ratio
+ORE_0106,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,39.51095313457924,m
+ORE_0106,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1287.6909861475276,m
+ORE_0106,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,32.59073456824722,ratio
+ORE_0106,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,122.69097509774552,m
+ORE_0106,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,203.14759469667538,m
+ORE_0106,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,1.6557664044550273,ratio
+ORE_0107,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,27.92646297321595,m
+ORE_0107,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1282.4735686081124,m
+ORE_0107,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,45.92323667476696,ratio
+ORE_0107,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,111.3181023438377,m
+ORE_0107,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,214.63082000179563,m
+ORE_0107,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,1.9280855088496491,ratio
+ORE_0108,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,28.509614067959408,m
+ORE_0108,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1272.8623946951327,m
+ORE_0108,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,44.6467774576311,ratio
+ORE_0108,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,87.30299597740992,m
+ORE_0108,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,238.87894838841893,m
+ORE_0108,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.736205621743268,ratio
+ORE_0109,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,38.204398717140776,m
+ORE_0109,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1257.5980791019792,m
+ORE_0109,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,32.917625229833696,ratio
+ORE_0109,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,42.71981532659192,m
+ORE_0109,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,283.8947259123051,m
+ORE_0109,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.645504521541983,ratio
+ORE_0110,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,52.8271100615557,m
+ORE_0110,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1246.7103808346628,m
+ORE_0110,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,23.599821746485077,ratio
+ORE_0110,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,2.0142228051788016,m
+ORE_0110,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,324.850162538913,m
+ORE_0110,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,161.27816729295557,ratio
+ORE_0111,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,70.78032266362426,m
+ORE_0111,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1236.4255029066817,m
+ORE_0111,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,17.468492038142557,ratio
+ORE_0111,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,52.59284557115201,m
+ORE_0111,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,379.8254378577995,m
+ORE_0111,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,7.221998234416501,ratio
+ORE_0112,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,84.60087638179834,m
+ORE_0112,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1233.7636058169512,m
+ORE_0112,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,14.58334308794929,ratio
+ORE_0112,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,84.35679929077229,m
+ORE_0112,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,412.0556623328426,m
+ORE_0112,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.884676348524249,ratio
+ORE_0113,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,72.24126192420135,m
+ORE_0113,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1234.864712830291,m
+ORE_0113,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,17.09362045926003,ratio
+ORE_0113,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,71.87450192866292,m
+ORE_0113,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,399.39014768949966,m
+ORE_0113,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,5.556770996283264,ratio
+ORE_0114,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,64.7647004871251,m
+ORE_0114,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1235.5003378271,m
+ORE_0114,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,19.07675521594841,ratio
+ORE_0114,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,62.04587791072016,m
+ORE_0114,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,389.4172576383714,m
+ORE_0114,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.276279275131164,ratio
+ORE_0115,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,60.78431031957367,m
+ORE_0115,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1237.196647583856,m
+ORE_0115,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,20.35388147170366,ratio
+ORE_0115,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,45.13895523546513,m
+ORE_0115,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,372.2620442467332,m
+ORE_0115,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,8.247023935420007,ratio
+ORE_0116,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,56.66996187180915,m
+ORE_0116,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1240.95068422365,m
+ORE_0116,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,21.897856346378962,ratio
+ORE_0116,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,22.20460690211673,m
+ORE_0116,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,349.19363325316186,m
+ORE_0116,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,15.726179472237078,ratio
+ORE_0117,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,54.28146835426545,m
+ORE_0117,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1243.5761164835133,m
+ORE_0117,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,22.909772970166767,ratio
+ORE_0117,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,9.978516567582346,m
+ORE_0117,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,336.9046219521091,m
+ORE_0117,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,33.76299670099524,ratio
+ORE_0118,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,50.07714951119065,m
+ORE_0118,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1245.502366605433,m
+ORE_0118,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,24.871670587542187,ratio
+ORE_0118,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,0.9756970561418453,m
+ORE_0118,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,327.85546982141295,m
+ORE_0118,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,336.02178848200793,ratio
+ORE_0119,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,40.37995293562359,m
+ORE_0119,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1250.7163841302563,m
+ORE_0119,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,30.973695935808333,ratio
+ORE_0119,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,22.69514284963482,m
+ORE_0119,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,304.06280914362407,m
+ORE_0119,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,13.39770413247329,ratio
+ORE_0120,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,42.28293394676163,m
+ORE_0120,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1249.1073777521306,m
+ORE_0120,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,29.54164390117487,ratio
+ORE_0120,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,16.115087389477313,m
+ORE_0120,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,310.6767284895632,m
+ORE_0120,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,19.27862511576736,ratio
+ORE_0121,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,47.77075661853191,m
+ORE_0121,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1243.456073453485,m
+ORE_0121,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,26.02964996730041,ratio
+ORE_0121,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,7.653769378856923,m
+ORE_0121,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,334.56791053671816,m
+ORE_0121,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,43.712828800530865,ratio
+ORE_0122,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,53.46844969132403,m
+ORE_0122,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1238.8363825617962,m
+ORE_0122,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,23.169483867844665,ratio
+ORE_0122,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,32.452356180021795,m
+ORE_0122,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,359.49412202738233,m
+ORE_0122,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,11.077596955770282,ratio
+ORE_0123,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,58.1319199415671,m
+ORE_0123,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1236.643838259553,m
+ORE_0123,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,21.273060299790536,ratio
+ORE_0123,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,50.03739021387792,m
+ORE_0123,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,377.2324408675135,m
+ORE_0123,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,7.539011112591714,ratio
+ORE_0124,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,62.13141487881792,m
+ORE_0124,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1235.7465638993551,m
+ORE_0124,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,19.889239063838712,ratio
+ORE_0124,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,60.89160510356914,m
+ORE_0124,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,388.24604229207955,m
+ORE_0124,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,6.376019184117757,ratio
+ORE_0125,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,67.48831717664244,m
+ORE_0125,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1235.3273096792975,m
+ORE_0125,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,18.304313418365123,ratio
+ORE_0125,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,67.17860189890544,m
+ORE_0125,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,394.6253205504428,m
+ORE_0125,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,5.874271113059179,ratio
+ORE_0126,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,49.65491492181389,m
+ORE_0126,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1237.128834995224,m
+ORE_0126,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,24.914529346051527,ratio
+ORE_0126,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,49.0897707129187,m
+ORE_0126,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,376.27090009985244,m
+ORE_0126,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,7.66495533866552,ratio
+ORE_0127,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,43.99355928118087,m
+ORE_0127,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1239.0768652476795,m
+ORE_0127,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,28.164960632719698,ratio
+ORE_0127,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,29.42251350028119,m
+ORE_0127,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,356.4486864143121,m
+ORE_0127,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,12.114827865094037,ratio
+ORE_0128,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,36.652680061258415,m
+ORE_0128,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1244.3919046694791,m
+ORE_0128,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,33.95091170931293,ratio
+ORE_0128,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,1.144303710015223,m
+ORE_0128,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,325.72455861989954,m
+ORE_0128,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,284.6486957693831,ratio
+ORE_0129,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,33.7326210261696,m
+ORE_0129,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1247.82613931555,m
+ORE_0129,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,36.99167456769791,ratio
+ORE_0129,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,16.374914392335924,m
+ORE_0129,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,310.41556432387404,m
+ORE_0129,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,18.95677478895158,ratio
+ORE_0130,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,26.88018121942521,m
+ORE_0130,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1253.0015337989869,m
+ORE_0130,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,46.61432613011901,ratio
+ORE_0130,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,37.1355774081684,m
+ORE_0130,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,289.53314851898784,m
+ORE_0130,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,7.796651317324116,ratio
+ORE_0131,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,29.562592909052658,m
+ORE_0131,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1249.0071456210858,m
+ORE_0131,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,42.24958038909418,ratio
+ORE_0131,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,23.078597474985788,m
+ORE_0131,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,303.6773810748386,m
+ORE_0131,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,13.158398442712368,ratio
+ORE_0132,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,32.01430782289477,m
+ORE_0132,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1243.1932459689106,m
+ORE_0132,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,38.83242620288205,ratio
+ORE_0132,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,2.643994216052961,m
+ORE_0132,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,329.5323528424503,m
+ORE_0132,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,124.63429414546401,ratio
+ORE_0133,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,39.78430880292541,m
+ORE_0133,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1239.120129352287,m
+ORE_0133,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,31.145950919754885,ratio
+ORE_0133,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,29.292311623795992,m
+ORE_0133,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,356.3178144288822,m
+ORE_0133,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,12.164209469198147,ratio
+ORE_0134,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,43.68423114612108,m
+ORE_0134,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1237.8150549660363,m
+ORE_0134,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,28.335511979726064,ratio
+ORE_0134,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,42.787092363352194,m
+ORE_0134,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,369.8820454039044,m
+ORE_0134,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,8.6447109390568,ratio
+ORE_0135,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,49.224116353779344,m
+ORE_0135,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1269.605492050613,m
+ORE_0135,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,25.792347046431743,ratio
+ORE_0135,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,63.00273999091735,m
+ORE_0135,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,263.4149931785148,m
+ORE_0135,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.181008527827353,ratio
+ORE_0136,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,48.70901881786323,m
+ORE_0136,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1286.616079334166,m
+ORE_0136,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,26.414329636677483,ratio
+ORE_0136,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,104.94350515914871,m
+ORE_0136,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,221.067270859013,m
+ORE_0136,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.106535993092288,ratio
+ORE_0137,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,65.11313557690181,m
+ORE_0137,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1295.6306642371087,m
+ORE_0137,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,19.898145785145076,ratio
+ORE_0137,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,124.70725958649442,m
+ORE_0137,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,201.11174590476196,m
+ORE_0137,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,1.6126707183816749,ratio
+ORE_0138,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,64.51638682070296,m
+ORE_0138,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1295.6853600079326,m
+ORE_0138,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,20.08304283388905,ratio
+ORE_0138,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,125.85967965370467,m
+ORE_0138,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,199.94814380008668,m
+ORE_0138,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,1.5886592461559728,ratio
+ORE_0139,K07,MZ-II,MZII_nearby,False,True,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,47.46811831715596,m
+ORE_0139,K07,MZ-II,MZII_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1286.2971845467637,m
+ORE_0139,K07,MZ-II,MZII_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,27.098128810424516,ratio
+ORE_0139,K07,MZ-II,MZII_nearby,False,True,plan_trace_associated_distance,2D plan trace,F7,F6,105.29175388242747,m
+ORE_0139,K07,MZ-II,MZII_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,220.71564298072795,m
+ORE_0139,K07,MZ-II,MZII_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F7,F6,2.096229142760666,ratio
+ORE_0140,K07,MZ-II,MZII_primary,True,False,3D_surface_associated_distance,3D finite surface,F7,other_of_F2_F7,47.60245174926632,m
+ORE_0140,K07,MZ-II,MZII_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F7,other_of_F2_F7,1269.6713322862283,m
+ORE_0140,K07,MZ-II,MZII_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F7,other_of_F2_F7,26.672393661021825,ratio
+ORE_0140,K07,MZ-II,MZII_primary,True,False,plan_trace_associated_distance,2D plan trace,F7,F6,64.50100273925027,m
+ORE_0140,K07,MZ-II,MZII_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F7,F6,261.9021925064,m
+ORE_0140,K07,MZ-II,MZII_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F7,F6,4.060435983687844,ratio
+ORE_0141,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,39.7846185712616,m
+ORE_0141,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1762.740480365149,m
+ORE_0141,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,44.30708509138413,ratio
+ORE_0141,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,7.363119758523726,m
+ORE_0141,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,471.36130682678214,m
+ORE_0141,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,64.01652048116192,ratio
+ORE_0142,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,46.61900000427883,m
+ORE_0142,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1759.2273471429223,m
+ORE_0142,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,37.7362737720984,ratio
+ORE_0142,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,17.731230428385473,m
+ORE_0142,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,481.45269599493633,m
+ORE_0142,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,27.15280803210312,ratio
+ORE_0143,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,47.72709017267136,m
+ORE_0143,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1758.5223733692196,m
+ORE_0143,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,36.84537161195202,ratio
+ORE_0143,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,19.883670155445134,m
+ORE_0143,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,483.54768871724775,m
+ORE_0143,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,24.3188347491687,ratio
+ORE_0144,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,40.18672552853047,m
+ORE_0144,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1762.2664396308228,m
+ORE_0144,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,43.85195400853713,ratio
+ORE_0144,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,8.797915840002677,m
+ORE_0144,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,472.75780813948535,m
+ORE_0144,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,53.73520464812056,ratio
+ORE_0145,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,67.64456551590774,m
+ORE_0145,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1748.78928411299,m
+ORE_0145,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,25.85262054350446,ratio
+ORE_0145,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,50.57234050700865,m
+ORE_0145,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,513.4220557602462,m
+ORE_0145,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,10.152230460622892,ratio
+ORE_0146,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,72.20902181966723,m
+ORE_0146,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1743.5583335705633,m
+ORE_0146,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,24.14599020500342,ratio
+ORE_0146,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,67.72971947224572,m
+ORE_0146,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,530.1578563824415,m
+ORE_0146,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,7.827551339551754,ratio
+ORE_0147,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,87.10998305508141,m
+ORE_0147,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1740.1873003250437,m
+ORE_0147,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,19.976898620502404,ratio
+ORE_0147,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,80.73712539697335,m
+ORE_0147,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,542.8545794006134,m
+ORE_0147,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.7237293467097325,ratio
+ORE_0148,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,113.03765594693488,m
+ORE_0148,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1736.7415192115266,m
+ORE_0148,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,15.364274008183907,ratio
+ORE_0148,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,96.77699684855753,m
+ORE_0148,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,558.5113388150328,m
+ORE_0148,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.7711166599747346,ratio
+ORE_0149,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,120.4120999387241,m
+ORE_0149,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1735.9248241858186,m
+ORE_0149,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,14.416531437199456,ratio
+ORE_0149,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,101.24585110144484,m
+ORE_0149,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,562.8734541785667,m
+ORE_0149,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.559471801116937,ratio
+ORE_0150,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,146.97628221657104,m
+ORE_0150,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1733.5008006477046,m
+ORE_0150,XK03-1,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,11.794425430447163,ratio
+ORE_0150,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,117.04619889428325,m
+ORE_0150,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,578.287771654225,m
+ORE_0150,XK03-1,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,4.940679638614643,ratio
+ORE_0151,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,119.56679000730024,m
+ORE_0151,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1735.586429864588,m
+ORE_0151,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,14.515622856134385,ratio
+ORE_0151,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,101.80210092368546,m
+ORE_0151,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,563.4164185207812,m
+ORE_0151,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.534428203433037,ratio
+ORE_0152,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,85.49792364873647,m
+ORE_0152,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1739.7846672156832,m
+ORE_0152,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,20.348852848912365,ratio
+ORE_0152,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,81.29015765985,m
+ORE_0152,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,543.3944032271844,m
+ORE_0152,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.684627252181751,ratio
+ORE_0153,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,74.52676168241133,m
+ORE_0153,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1743.696107476307,m
+ORE_0153,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,23.39691230523206,ratio
+ORE_0153,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,66.92390818070164,m
+ORE_0153,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,529.3712914000201,m
+ORE_0153,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,7.910047482144371,ratio
+ORE_0154,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,74.49110612582068,m
+ORE_0154,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1745.5490037936922,m
+ORE_0154,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,23.432985420371367,ratio
+ORE_0154,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,60.938629155807575,m
+ORE_0154,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,523.5297616908814,m
+ORE_0154,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,8.59109843695898,ratio
+ORE_0155,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,81.75289252123414,m
+ORE_0155,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1741.8818924986128,m
+ORE_0155,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,21.306669877719422,ratio
+ORE_0155,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,72.97934082521361,m
+ORE_0155,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,535.2820896618081,m
+ORE_0155,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,7.334707104902674,ratio
+ORE_0156,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,83.6543718059601,m
+ORE_0156,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1740.031825377777,m
+ORE_0156,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,20.800249739653243,ratio
+ORE_0156,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,79.28446066342426,m
+ORE_0156,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,541.4366127025452,m
+ORE_0156,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.829038227314603,ratio
+ORE_0157,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,102.57349738210826,m
+ORE_0157,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1735.8454820615598,m
+ORE_0157,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,16.92294331736748,ratio
+ORE_0157,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,96.20515896389158,m
+ORE_0157,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,557.9531595052476,m
+ORE_0157,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.799617874075367,ratio
+ORE_0158,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,104.1924985354309,m
+ORE_0158,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1735.253566207908,m
+ORE_0158,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,16.654304202310986,ratio
+ORE_0158,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,98.19774596464927,m
+ORE_0158,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,559.8981534581098,m
+ORE_0158,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.701741399030387,ratio
+ORE_0159,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,84.88087053231858,m
+ORE_0159,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1739.6531635532049,m
+ORE_0159,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,20.49523234909364,ratio
+ORE_0159,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,80.55976913215508,m
+ORE_0159,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,542.6814601535575,m
+ORE_0159,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.736383011020181,ratio
+ORE_0160,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,82.59814785893535,m
+ORE_0160,XK03-1,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1741.4990959134766,m
+ORE_0160,XK03-1,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,21.08399693038739,ratio
+ORE_0160,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,74.25520187381483,m
+ORE_0160,XK03-1,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,536.5274777591361,m
+ORE_0160,XK03-1,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,7.225453089076253,ratio
+ORE_0161,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,195.38537196088924,m
+ORE_0161,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1711.0389221588566,m
+ORE_0161,XK03-1,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,8.757251911884987,ratio
+ORE_0161,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F1,192.1887945670256,m
+ORE_0161,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F1,566.6792099668573,m
+ORE_0161,XK03-1,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F1,2.948554889703669,ratio
+ORE_0162,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,205.16041440579036,m
+ORE_0162,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1709.568078817106,m
+ORE_0162,XK03-1,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,8.3328359604291,ratio
+ORE_0162,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F1,200.16572380839995,m
+ORE_0162,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F1,559.9922865898062,m
+ORE_0162,XK03-1,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F1,2.7976432524773065,ratio
+ORE_0163,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,209.57365121203196,m
+ORE_0163,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1708.5328894551328,m
+ORE_0163,XK03-1,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,8.152422213260763,ratio
+ORE_0163,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F1,204.70966779550787,m
+ORE_0163,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F1,556.1991054050026,m
+ORE_0163,XK03-1,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F1,2.7170143520559598,ratio
+ORE_0164,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,199.4433074574464,m
+ORE_0164,XK03-1,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1710.1094902764205,m
+ORE_0164,XK03-1,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,8.574414013071323,ratio
+ORE_0164,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F1,196.25466066206317,m
+ORE_0164,XK03-1,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F1,563.266469200066,m
+ORE_0164,XK03-1,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F1,2.870079453399436,ratio
+ORE_0165,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,127.7641196062683,m
+ORE_0165,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1468.7109042389343,m
+ORE_0165,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,11.495488003713971,ratio
+ORE_0165,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,139.07511267175707,m
+ORE_0165,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,358.1859389260932,m
+ORE_0165,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.5754855203423643,ratio
+ORE_0166,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,104.4294448100659,m
+ORE_0166,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1452.4771964834529,m
+ORE_0166,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,13.908694038594078,ratio
+ORE_0166,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,113.58306756985304,m
+ORE_0166,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,383.387469378743,m
+ORE_0166,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,3.3753928079373408,ratio
+ORE_0167,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,47.17174308787411,m
+ORE_0167,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1414.4934071120097,m
+ORE_0167,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,29.986032198916494,ratio
+ORE_0167,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,52.022478784999315,m
+ORE_0167,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,444.50916795700897,m
+ORE_0167,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,8.544559550768335,ratio
+ORE_0168,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,41.37503636742213,m
+ORE_0168,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1410.860163866693,m
+ORE_0168,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,34.099309335654766,ratio
+ORE_0168,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,45.965857392272575,m
+ORE_0168,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,450.5386226396919,m
+ORE_0168,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,9.80159292569691,ratio
+ORE_0169,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,10.908668383496329,m
+ORE_0169,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1388.630078250107,m
+ORE_0169,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,127.29602087372633,ratio
+ORE_0169,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,8.089383822448367,m
+ORE_0169,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,488.2962817788057,m
+ORE_0169,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,60.36260517442179,ratio
+ORE_0170,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,16.59253084770679,m
+ORE_0170,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1379.7270282285442,m
+ORE_0170,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,83.15350086688147,ratio
+ORE_0170,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,8.354197850275018,m
+ORE_0170,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,504.72115693975087,m
+ORE_0170,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,60.415274570392846,ratio
+ORE_0171,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,24.93962050968664,m
+ORE_0171,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1375.7330452408914,m
+ORE_0171,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,55.162549274017685,ratio
+ORE_0171,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,16.02353373544392,m
+ORE_0171,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,512.3965182536003,m
+ORE_0171,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,31.977747650019523,ratio
+ORE_0172,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,41.70878139230922,m
+ORE_0172,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1368.5139317437888,m
+ORE_0172,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,32.81117035934626,ratio
+ORE_0172,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,30.00879822247811,m
+ORE_0172,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,526.3984506983846,m
+ORE_0172,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,17.54147056459214,ratio
+ORE_0173,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,67.42066766266346,m
+ORE_0173,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1357.8937452036052,m
+ORE_0173,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,20.140615515672,ratio
+ORE_0173,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,51.12202765897442,m
+ORE_0173,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,547.5384756566306,m
+ORE_0173,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,10.710421724841558,ratio
+ORE_0174,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,84.9627499024206,m
+ORE_0174,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1350.9064872282877,m
+ORE_0174,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,15.89998544985654,ratio
+ORE_0174,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,65.46820273370327,m
+ORE_0174,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,561.9028579377044,m
+ORE_0174,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,8.582836162820685,ratio
+ORE_0175,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,110.40749558209085,m
+ORE_0175,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1340.850297728115,m
+ORE_0175,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.144558579640618,ratio
+ORE_0175,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,86.85212693385591,m
+ORE_0175,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,583.3139211588847,m
+ORE_0175,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.716173129566761,ratio
+ORE_0176,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,122.0717166782238,m
+ORE_0176,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1337.1559804396602,m
+ORE_0176,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,10.953855789251742,ratio
+ORE_0176,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,95.69441953887606,m
+ORE_0176,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,592.1677254981453,m
+ORE_0176,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.188111368997602,ratio
+ORE_0177,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,137.2735290102573,m
+ORE_0177,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1332.6814252891436,m
+ORE_0177,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,9.708218582983784,ratio
+ORE_0177,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,106.88263471713292,m
+ORE_0177,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,603.374074186602,m
+ORE_0177,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.645202102132342,ratio
+ORE_0178,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,138.80118970531842,m
+ORE_0178,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1331.6393312175553,m
+ORE_0178,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,9.59386107600871,ratio
+ORE_0178,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,108.7774122869552,m
+ORE_0178,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,605.2723656490004,m
+ORE_0178,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.5643203209531205,ratio
+ORE_0179,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,123.4292196072999,m
+ORE_0179,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1336.1096382223016,m
+ORE_0179,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,10.82490550027978,ratio
+ORE_0179,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,97.49897182651281,m
+ORE_0179,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,593.9748942496376,m
+ORE_0179,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.092114441027556,ratio
+ORE_0180,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,110.56222852046096,m
+ORE_0180,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1340.0742856103786,m
+ORE_0180,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.1205433676871,ratio
+ORE_0180,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,87.84462363122665,m
+ORE_0180,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,584.3076774905912,m
+ORE_0180,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.651604313811231,ratio
+ORE_0181,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,71.70298836294434,m
+ORE_0181,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1354.7314801433877,m
+ORE_0181,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,18.893654380010535,ratio
+ORE_0181,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,56.62591012864535,m
+ORE_0181,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,553.0493432693977,m
+ORE_0181,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,9.766718839714095,ratio
+ORE_0182,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,49.12631935837647,m
+ORE_0182,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1364.0441493761691,m
+ORE_0182,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,27.76605630528654,ratio
+ORE_0182,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,37.94881908770007,m
+ORE_0182,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,534.3485485025722,m
+ORE_0182,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,14.080768818331018,ratio
+ORE_0183,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,26.218396342814778,m
+ORE_0183,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1373.561111959407,m
+ORE_0183,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,52.38921152917254,ratio
+ORE_0183,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,19.091268025117426,m
+ORE_0183,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,515.4674071598304,m
+ORE_0183,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,27.00016606972652,ratio
+ORE_0184,XK04,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,14.603330661292665,m
+ORE_0184,XK04,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1377.921549893293,m
+ORE_0184,XK04,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,94.35666300055699,ratio
+ORE_0184,XK04,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,10.700111289096588,m
+ORE_0184,XK04,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,507.0686265292091,m
+ORE_0184,XK04,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,47.38909837750117,ratio
+ORE_0185,XK04,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,155.23888468336563,m
+ORE_0185,XK04,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1302.6691957633054,m
+ORE_0185,XK04,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,8.391384661261295,ratio
+ORE_0185,XK04,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,152.26706294558784,m
+ORE_0185,XK04,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,648.8748512195658,m
+ORE_0185,XK04,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,4.261426198595814,ratio
+ORE_0186,XK04,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,173.56098833649105,m
+ORE_0186,XK04,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,1293.7452587376254,m
+ORE_0186,XK04,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,7.454124749678074,ratio
+ORE_0186,XK04,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,170.4930184412659,m
+ORE_0186,XK04,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,667.1646815506705,m
+ORE_0186,XK04,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,3.913149568529141,ratio
+ORE_0191,XK11,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,209.7494566882335,m
+ORE_0191,XK11,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2600.188583214885,m
+ORE_0191,XK11,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.396640374042743,ratio
+ORE_0191,XK11,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,208.39142214645287,m
+ORE_0191,XK11,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,74.43592879320768,m
+ORE_0191,XK11,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.35719286344183476,ratio
+ORE_0192,XK11,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,210.3774484719549,m
+ORE_0192,XK11,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2604.2963345497437,m
+ORE_0192,XK11,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.379161138542464,ratio
+ORE_0192,XK11,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,222.50852116060275,m
+ORE_0192,XK11,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,60.315262387774204,m
+ORE_0192,XK11,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.2710694497144211,ratio
+ORE_0193,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,211.76394902979536,m
+ORE_0193,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2608.9764191596555,m
+ORE_0193,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.320210456561567,ratio
+ORE_0193,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,236.89954962436644,m
+ORE_0193,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,45.92060144454666,m
+ORE_0193,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.193839969376723,ratio
+ORE_0194,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,212.55378453194533,m
+ORE_0194,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2611.574804620044,m
+ORE_0194,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.286653989110896,ratio
+ORE_0194,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,244.32441237214456,m
+ORE_0194,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,38.48403943035173,m
+ORE_0194,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.15751205152489828,ratio
+ORE_0195,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,213.6817743082752,m
+ORE_0195,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2615.45598902684,m
+ORE_0195,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.239958215872752,ratio
+ORE_0195,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,254.86605557327903,m
+ORE_0195,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,27.909252804241486,m
+ORE_0195,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.10950557045136607,ratio
+ORE_0196,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,214.06387852772363,m
+ORE_0196,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2617.572154860973,m
+ORE_0196,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.227995553775639,ratio
+ORE_0196,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,260.3748463180536,m
+ORE_0196,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,22.383142347079072,m
+ORE_0196,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.08596507175557801,ratio
+ORE_0197,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,212.61497413447825,m
+ORE_0197,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2617.0593860794147,m
+ORE_0197,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.308913785273344,ratio
+ORE_0197,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,259.1473819358655,m
+ORE_0197,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,23.614465774449965,m
+ORE_0197,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.09112369030335848,ratio
+ORE_0198,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,211.96877447633767,m
+ORE_0198,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2614.598531241974,m
+ORE_0198,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.334828739286053,ratio
+ORE_0198,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,252.75389570423943,m
+ORE_0198,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,30.028053368866708,m
+ORE_0198,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.11880352342424073,ratio
+ORE_0199,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,210.82466626110337,m
+ORE_0199,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2611.7931513820345,m
+ORE_0199,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.388460978979403,ratio
+ORE_0199,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,245.20420997280095,m
+ORE_0199,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,37.60147576563577,m
+ORE_0199,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.15334759452052915,ratio
+ORE_0200,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,209.56575426027703,m
+ORE_0200,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2608.523868610436,m
+ORE_0200,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.447281178253458,ratio
+ORE_0200,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,236.0078664446488,m
+ORE_0200,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,46.812509757581516,m
+ORE_0200,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.19835148066371977,ratio
+ORE_0201,XK11,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,208.2213974686666,m
+ORE_0201,XK11,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2605.582470598939,m
+ORE_0201,XK11,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.513519274555009,ratio
+ORE_0201,XK11,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,227.34455891761309,m
+ORE_0201,XK11,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,55.478003617963644,m
+ORE_0201,XK11,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.24402608921935184,ratio
+ORE_0202,XK11,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,206.6087493363806,m
+ORE_0202,XK11,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2601.8370879485856,m
+ORE_0202,XK11,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.593063441435016,ratio
+ORE_0202,XK11,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,215.67974578058974,m
+ORE_0202,XK11,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,67.14576115047589,m
+ORE_0202,XK11,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.31132158890238604,ratio
+ORE_0203,XK11,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,205.0763185902591,m
+ORE_0203,XK11,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,2598.2424956488494,m
+ORE_0203,XK11,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,12.669636911320405,ratio
+ORE_0203,XK11,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,203.4702898518087,m
+ORE_0203,XK11,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,79.35876265341406,m
+ORE_0203,XK11,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,0.39002629185426807,ratio
+ORE_0212,XK19,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,122.26946890842308,m
+ORE_0212,XK19,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3563.2443159607155,m
+ORE_0212,XK19,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,29.142551675181487,ratio
+ORE_0212,XK19,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,117.2679774530592,m
+ORE_0212,XK19,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,325.62856196828903,m
+ORE_0212,XK19,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.7767901266876867,ratio
+ORE_0213,XK19,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,133.37107783287456,m
+ORE_0213,XK19,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3561.9643753379128,m
+ORE_0213,XK19,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,26.707172448597593,ratio
+ORE_0213,XK19,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,124.01611913726617,m
+ORE_0213,XK19,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,332.15680703966154,m
+ORE_0213,XK19,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.6783357627246556,ratio
+ORE_0214,XK19,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,134.79103664223462,m
+ORE_0214,XK19,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3561.677729620252,m
+ORE_0214,XK19,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,26.423698625256048,ratio
+ORE_0214,XK19,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,125.73769790381942,m
+ORE_0214,XK19,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,333.82361722192405,m
+ORE_0214,XK19,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.6549207022803603,ratio
+ORE_0215,XK19,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,124.51563202621948,m
+ORE_0215,XK19,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3562.845401520511,m
+ORE_0215,XK19,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,28.613639456693086,ratio
+ORE_0215,XK19,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,119.60908705691266,m
+ORE_0215,XK19,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,327.8924269236584,m
+ORE_0215,XK19,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.7413671903342918,ratio
+ORE_0216,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,14.856387772242355,m
+ORE_0216,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3802.997197337336,m
+ORE_0216,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,255.98397508463316,ratio
+ORE_0216,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,31.565172348728993,m
+ORE_0216,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,159.33883404052602,m
+ORE_0216,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.047931697637063,ratio
+ORE_0217,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,10.68134381761219,m
+ORE_0217,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3805.0355524179754,m
+ORE_0217,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,356.2319140166569,ratio
+ORE_0217,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,42.25057817522609,m
+ORE_0217,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,148.54628800558385,m
+ORE_0217,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,3.515840360563041,ratio
+ORE_0218,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,11.201099152040817,m
+ORE_0218,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3807.826789151889,m
+ORE_0218,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,339.9511724220485,ratio
+ORE_0218,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,53.84640647891154,m
+ORE_0218,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,136.19481547728887,m
+ORE_0218,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.5293204204932107,ratio
+ORE_0219,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,8.645876996618139,m
+ORE_0219,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3811.8576360428897,m
+ORE_0219,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,440.8873313295932,ratio
+ORE_0219,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,68.14417223223877,m
+ORE_0219,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,120.96533305612053,m
+ORE_0219,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,1.7751383440958763,ratio
+ORE_0220,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,8.837016393057821,m
+ORE_0220,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3811.788610780957,m
+ORE_0220,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,431.3433902618331,ratio
+ORE_0220,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,67.80642564951292,m
+ORE_0220,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,121.3250896817932,m
+ORE_0220,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,1.789286022963588,ratio
+ORE_0221,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,8.218198532346658,m
+ORE_0221,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3806.821076406889,m
+ORE_0221,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,463.2184366711659,ratio
+ORE_0221,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,49.68091510566567,m
+ORE_0221,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,140.63175186351498,m
+ORE_0221,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.830699707612213,ratio
+ORE_0222,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,8.515556618113763,m
+ORE_0222,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3804.955906677016,m
+ORE_0222,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,446.8240982137739,ratio
+ORE_0222,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,41.800251483969696,m
+ORE_0222,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,149.02596080893966,m
+ORE_0222,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,3.5651929239251294,ratio
+ORE_0223,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,8.910357212516974,m
+ORE_0223,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3803.640264443468,m
+ORE_0223,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,426.878538505756,ratio
+ORE_0223,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,35.424899038145305,m
+ORE_0223,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,155.5014866344516,m
+ORE_0223,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,4.389609874879491,ratio
+ORE_0224,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,12.406945658751487,m
+ORE_0224,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3801.4020303428383,m
+ORE_0224,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,306.3930587671627,ratio
+ORE_0224,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,23.242633118497743,m
+ORE_0224,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,167.61311783277523,m
+ORE_0224,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,7.2114513436681005,ratio
+ORE_0225,xk23,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,58.88554318370623,m
+ORE_0225,xk23,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3789.79209807878,m
+ORE_0225,xk23,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,64.35861661759154,ratio
+ORE_0225,xk23,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,39.35735754626016,m
+ORE_0225,xk23,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,229.95202582766677,m
+ORE_0225,xk23,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.842669329549982,ratio
+ORE_0226,xk23,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,63.00182253828137,m
+ORE_0226,xk23,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3790.479398696606,m
+ORE_0226,xk23,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,60.164599149388465,ratio
+ORE_0226,xk23,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,35.13577555275061,m
+ORE_0226,xk23,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,225.7429577384636,m
+ORE_0226,xk23,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.4248747661638355,ratio
+ORE_0227,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,52.11426165303417,m
+ORE_0227,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3796.016250712403,m
+ORE_0227,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,72.84025773953171,ratio
+ORE_0227,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,5.825960777658234,m
+ORE_0227,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,196.537363436214,m
+ORE_0227,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,33.73475568011169,ratio
+ORE_0228,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,46.63137410069806,m
+ORE_0228,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3800.616455781986,m
+ORE_0228,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,81.50341972712941,ratio
+ORE_0228,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,15.6437855286642,m
+ORE_0228,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,175.16921063539314,m
+ORE_0228,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,11.197367179090353,ratio
+ORE_0229,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,43.581038473010096,m
+ORE_0229,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3803.514676336644,m
+ORE_0229,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,87.27453061248586,ratio
+ORE_0229,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,28.187906753271186,m
+ORE_0229,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,162.6965176186856,m
+ORE_0229,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.771855251358981,ratio
+ORE_0230,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,37.34185200238596,m
+ORE_0230,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3809.0399880725786,m
+ORE_0230,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,102.00458155715468,ratio
+ORE_0230,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,49.90607466806355,m
+ORE_0230,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,140.39191995000118,m
+ORE_0230,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,2.813122868984972,ratio
+ORE_0231,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,32.33805786368192,m
+ORE_0231,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3813.6665877617647,m
+ORE_0231,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,117.93121911767003,ratio
+ORE_0231,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,66.23029292584783,m
+ORE_0231,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,123.0039314700628,m
+ORE_0231,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,1.8572155736617284,ratio
+ORE_0232,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,34.87806572562331,m
+ORE_0232,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3813.3057815631737,m
+ORE_0232,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,109.33249026942781,ratio
+ORE_0232,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,64.20384107597785,m
+ORE_0232,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,125.16243708703175,m
+ORE_0232,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,1.9494540356069416,ratio
+ORE_0233,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,41.4679249135882,m
+ORE_0233,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3807.215599558437,m
+ORE_0233,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,91.81109514141349,ratio
+ORE_0233,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,42.58831784607839,m
+ORE_0233,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,148.18653991443824,m
+ORE_0233,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,3.4795114578136253,ratio
+ORE_0234,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,46.98603111790492,m
+ORE_0234,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3803.490762750996,m
+ORE_0234,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,80.94939436801258,ratio
+ORE_0234,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,27.343590354396042,m
+ORE_0234,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,163.53593851323834,m
+ORE_0234,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.980777812777121,ratio
+ORE_0235,xk23,MZ-I,MZI_nearby,False,True,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,57.35091057537063,m
+ORE_0235,xk23,MZ-I,MZI_nearby,False,True,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3795.627563387024,m
+ORE_0235,xk23,MZ-I,MZI_nearby,False,True,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,66.18251611539465,ratio
+ORE_0235,xk23,MZ-I,MZI_nearby,False,True,plan_trace_associated_distance,2D plan trace,F2,F3,8.358900673259866,m
+ORE_0235,xk23,MZ-I,MZI_nearby,False,True,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,199.05991457660855,m
+ORE_0235,xk23,MZ-I,MZI_nearby,False,True,DSI_2D_Eq5,2D plan trace ratio,F2,F3,23.814126086388544,ratio
+ORE_0236,xk23,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,66.4659324457523,m
+ORE_0236,xk23,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3790.7559225619066,m
+ORE_0236,xk23,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,57.033066159958246,ratio
+ORE_0236,xk23,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,33.68837330156786,m
+ORE_0236,xk23,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,224.2999728574239,m
+ORE_0236,xk23,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,6.658082622439505,ratio
+ORE_0237,xk23,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,69.82974701253691,m
+ORE_0237,xk23,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3789.350207161776,m
+ORE_0237,xk23,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,54.2655582939668,ratio
+ORE_0237,xk23,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,41.5284514378834,m
+ORE_0237,xk23,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,232.11689141287908,m
+ORE_0237,xk23,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.589346180174098,ratio
+ORE_0238,xk23,MZ-I,MZI_primary,True,False,3D_surface_associated_distance,3D finite surface,F2,other_of_F2_F7,65.69364383174785,m
+ORE_0238,xk23,MZ-I,MZI_primary,True,False,3D_surface_competing_F2F7_distance,3D finite surface,F2,other_of_F2_F7,3788.426549599109,m
+ORE_0238,xk23,MZ-I,MZI_primary,True,False,3D_pairwise_F2F7_separation_ratio,3D finite surface ratio,F2,other_of_F2_F7,57.668083677956545,ratio
+ORE_0238,xk23,MZ-I,MZI_primary,True,False,plan_trace_associated_distance,2D plan trace,F2,F3,47.19742638241807,m
+ORE_0238,xk23,MZ-I,MZI_primary,True,False,plan_trace_nearest_competing_distance,2D plan trace,F2,F3,237.7702337486193,m
+ORE_0238,xk23,MZ-I,MZI_primary,True,False,DSI_2D_Eq5,2D plan trace ratio,F2,F3,5.037779641247413,ratio

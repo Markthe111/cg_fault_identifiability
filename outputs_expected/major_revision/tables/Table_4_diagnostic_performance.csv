@@ -1,0 +1,5 @@
+Diagnostic,Setting,ROC-AUC,PR-AUC,Brier
+plan-view DSI,grouped held-out (competing-fault-count family),0.875,0.949,0.114
+3-D distance-difference,grouped held-out (competing-fault-count family),0.981,0.994,0.049
+plan-view DSI,OOD (3000 independent scenarios),0.886,0.820,0.315
+3-D distance-difference,OOD (3000 independent scenarios),0.920,0.880,0.114

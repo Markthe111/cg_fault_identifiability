@@ -1,0 +1,9 @@
+﻿fault,model_family,admissible,mean_LOSO_RMSE_m,threshold_m,delta_from_best_m,continuous_surface,F7_inference_limit
+F2,single_plane,True,559.9123185400585,584.7096407408333,53.18751336707493,True,not_applicable
+F2,segmented_plane,True,506.7248051729836,584.7096407408333,0.0,True,not_applicable
+F2,quadratic_surface,False,699.0790916219067,584.7096407408333,192.35428644892312,True,not_applicable
+F2,trace_constrained_ruled,False,619.6320339429433,584.7096407408333,112.90722876995966,True,not_applicable
+F7,single_plane,True,144.10153334888042,176.5031581747536,0.5290551785489868,True,3 sections; limited discrimination
+F7,segmented_plane,True,143.57247817033144,176.5031581747536,0.0,True,3 sections; limited discrimination
+F7,quadratic_surface,False,204.94650985245616,176.5031581747536,61.37403168212472,True,3 sections; limited discrimination
+F7,trace_constrained_ruled,False,376.0570897647079,176.5031581747536,232.48461159437645,True,3 sections; limited discrimination

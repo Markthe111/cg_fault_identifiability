@@ -122,8 +122,8 @@ def markdown_table(df: pd.DataFrame) -> list[str]:
 def main(seed: int, output_root: Path) -> None:
     output_root = output_root.resolve()
     out = output_root / "phase5"
-    input_path = REPO_ROOT / "data" / "major_revision" / "all_section_constraints_fault_points_public_derived.csv"
-    trace_path = REPO_ROOT / "data" / "major_revision" / "fault_trace_profiles_public_derived.csv"
+    input_path = REPO_ROOT / "data" / "major_revision" / "loso_coordinate_shifted" / "all_section_constraints_fault_points_public_derived.csv"
+    trace_path = REPO_ROOT / "data" / "major_revision" / "loso_coordinate_shifted" / "fault_trace_profiles_public_derived.csv"
     out.mkdir(parents=True, exist_ok=True)
     data = pd.read_csv(input_path)
     trace_profiles = pd.read_csv(trace_path)
@@ -271,6 +271,10 @@ def main(seed: int, output_root: Path) -> None:
     depth_summary = spread.groupby(["fault", "depth_below_trace_m"]).agg(
         admissible_model_count=("admissible_model_count", "first"), median_x_spread_m=("x_spread_m", "median"),
         maximum_x_spread_m=("x_spread_m", "max")).reset_index()
+    # Public manuscript-facing comparison table. It deliberately contains no
+    # along-strike locations or model-predicted X values: those coordinates are
+    # unnecessary for reproducing the reported depthwise envelope.
+    depth_summary.to_csv(out / "depthwise_geometry_spread_summary.csv", index=False, encoding="utf-8-sig")
     f2_adm = admissible[(admissible.fault == "F2") & admissible.admissible]["model_family"].tolist()
     f7_adm = admissible[(admissible.fault == "F7") & admissible.admissible]["model_family"].tolist()
     report = [
@@ -278,7 +282,7 @@ def main(seed: int, output_root: Path) -> None:
         "",
         "## Data and method",
         "",
-        f"Input `{input_path}` (SHA-256 `{sha256(input_path)}`): F2 n=132 across 8 sections; F7 n=63 across 3 sections. X/Y coordinates use a public local translated frame in metres; the same translation was applied to points and trace profiles.",
+        f"Input `{input_path.relative_to(REPO_ROOT)}` (SHA-256 `{sha256(input_path)}`): F2 n=132 across 8 sections; F7 n=63 across 3 sections. X/Y coordinates use a public local translated frame in metres; the same translation was applied to points and trace profiles.",
         "Four continuous surface families were compared by leave-one-section-out prediction: single plane, continuous segmented plane, weakly curved ridge-regularized quadratic surface, and trace-constrained ruled surface. The admissible threshold is the best mean LOSO RMSE plus the standard error of that best model across held-out sections. Training residuals do not determine admission.",
         "Depthwise envelopes are model extrapolations at 100/200/300/400 m below the DEM-sampled mapped trace; they describe between-model spread, not a geological confidence interval.",
         "",
@@ -300,8 +304,8 @@ def main(seed: int, output_root: Path) -> None:
     ]
     (out / "REPORT_ADMISSIBLE_GEOMETRY.md").write_text("\n".join(report) + "\n", encoding="utf-8")
     provenance = {
-        "status": "PHASE5_PASS", "input": str(input_path), "input_sha256": sha256(input_path),
-        "trace_input": str(trace_path), "trace_input_sha256": sha256(trace_path),
+        "status": "PHASE5_PASS", "input": input_path.relative_to(REPO_ROOT).as_posix(), "input_sha256": sha256(input_path),
+        "trace_input": trace_path.relative_to(REPO_ROOT).as_posix(), "trace_input_sha256": sha256(trace_path),
         "input_counts": counts, "section_counts": sections, "coordinate_frame": "PUBLIC_LOCAL_TRANSLATED_METRES", "trace_metadata": trace_meta,
         "model_families": MODELS, "admissibility_rule": "mean_LOSO_RMSE <= best mean + SE(best), continuous surface",
         "depths_m": DEPTHS, "seed": seed, "python": platform.python_version(), "numpy": np.__version__, "pandas": pd.__version__,

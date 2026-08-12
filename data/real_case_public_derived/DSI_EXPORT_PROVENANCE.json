@@ -1,0 +1,24 @@
+{
+  "source_canonical_file": "private canonical source retained by the data owner; SHA-256 recorded",
+  "source_sha256": "ad94de5e31b54cb88e918a9a127b1cbd73c2033d6821da31537fc184ed826980",
+  "row_filters": "All rows in frozen primary_DSI_pointwise_48_72.csv; source is already primary-only",
+  "source_rows": 120,
+  "columns_retained_or_renamed": {
+    "zone": "zone",
+    "control_fault": "expected_associated_fault",
+    "next_fault": "nearest_competing_fault",
+    "d_control_plan": "d_plan_associated_m",
+    "d_next_plan": "d_plan_competing_m",
+    "DSI_2D": "dsi"
+  },
+  "columns_removed": [
+    "point_id",
+    "section_id",
+    "rank_within_zone",
+    "threshold_bin"
+  ],
+  "anonymization_method": "Sequential public point IDs; deterministic opaque section IDs; crosswalk intentionally not distributed",
+  "dsi_definition": "nearest competing named-fault plan distance / expected associated-fault plan distance",
+  "output_sha256": "d4a4fb262182093f31b6c6c6b2433f25001d328eecf17a20724767e088f2b80f",
+  "summary_sha256": "c50c583a26b52dd480c18ade3044261899d73074f0ceee4a33b0ca7b9fb673d3"
+}

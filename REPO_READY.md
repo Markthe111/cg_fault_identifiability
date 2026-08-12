@@ -42,6 +42,10 @@ cg_fault_identifiability/
 - Eq. 4 REML variance components: `src/cg_fault_identifiability/variance.py`, `reml.py`
 - Eq. 5 DSI: `src/cg_fault_identifiability/dsi.py`
 - 18,000-record synthetic benchmark: `src/cg_fault_identifiability/benchmark.py`, `scripts/run_dsi_benchmark.py`
+- Grouped diagnostic validation: `scripts/major_revision/run_diagnostic_validation.py`
+- Independent OOD validation without OOD retuning: `scripts/major_revision/run_ood_validation.py`
+- LOSO alternative-geometry comparison: `scripts/major_revision/run_loso_geometry_comparison.py`
+- Major-revision master entry point: `scripts/major_revision/reproduce_major_revision.py`
 
 ## Public data included
 
@@ -49,6 +53,9 @@ cg_fault_identifiability/
 - Corrected Eq. 5 real-case DSI overlay under `data/real_case_public_derived/`
 - Supplementary pairwise 3-D separation ratio table, explicitly not used as DSI
 - Figure-support fault parameters and derived domain-assignment point table
+- Frozen 3,000-scenario synthetic OOD table
+- Translated local-coordinate LOSO inputs with no distributed translation origin
+- Frozen major-revision expected outputs and numerical tests
 
 Restricted original drillhole/trench logs, proprietary GIS layers, and raw mine
 data are excluded.
@@ -75,7 +82,7 @@ data are excluded.
 1. Log in to Zenodo with the GitHub-linked account.
 2. Open Zenodo > GitHub integration.
 3. Enable archiving for `cg_fault_identifiability`.
-4. Create a GitHub release, for example `v0.1.0`.
+4. Create the reviewed GitHub release for version `v0.2.0`.
 5. Zenodo will archive that release and mint a DOI.
 6. Add the DOI badge to `README.md` and update `CITATION.cff` with the DOI.
 7. For manuscript submission, cite the Zenodo DOI, not only the GitHub URL.
@@ -93,11 +100,11 @@ data are excluded.
 
 ## Current readiness status
 
-`GITHUB_READY_AFTER_MANUAL_URL_UPDATE`
+`PUBLIC_RELEASE_V2_INTEGRATED_LOCAL_ONLY`
 
 Manual steps remaining:
 
-- Run the test suite in the intended release environment.
-- Push to GitHub.
-- Create the GitHub release and connect Zenodo.
+- Review the local `submission-release-v2` commit and release-candidate tag.
+- Push to GitHub only after author approval.
+- Create the GitHub release and publish a new Zenodo version.
 

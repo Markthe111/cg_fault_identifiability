@@ -140,9 +140,12 @@ def main(seed: int, output_root: Path) -> None:
     id_held_path = output_root / "phase2" / "heldout_pooled_metrics.csv"
     out = output_root / "phase3"
     out.mkdir(parents=True, exist_ok=True)
-    top_rng = np.random.default_rng(seed)
-    seeds = top_rng.integers(0, 2**31 - 1, N_SCENARIOS)
-    ood = pd.DataFrame([generate_one(int(seed), i) for i, seed in enumerate(seeds)])
+    # The independent 3,000-scenario OOD set is frozen public synthetic data.
+    # It is not regenerated, refitted, recalibrated, or retuned for this release.
+    ood_path = REPO_ROOT / "data" / "major_revision" / "ood" / "OOD_dataset_summary.csv"
+    ood = pd.read_csv(ood_path)
+    if len(ood) != N_SCENARIOS:
+        raise RuntimeError(f"Expected {N_SCENARIOS} frozen OOD scenarios, got {len(ood)}")
     ood.to_csv(out / "OOD_dataset_summary.csv", index=False, encoding="utf-8-sig")
 
     id_data = pd.read_csv(id_path)

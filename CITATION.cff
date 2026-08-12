@@ -1,8 +1,8 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
 title: "cg_fault_identifiability: claim-specific fault-domain identifiability diagnostics"
-version: 0.1.0
-date-released: 2026-07-07
+version: 0.2.0
+date-released: 2026-08-12
 authors:
   - family-names: Xie
     given-names: Fuyuan
@@ -14,5 +14,4 @@ authors:
     given-names: Jinhui
 repository-code: "https://github.com/Markthe111/cg_fault_identifiability"
 license: MIT
-abstract: "Reproducible Python implementation of fault-surface extrusion, nearest-fault domain attribution, Monte Carlo assignment stability, null-model fault specificity, REML variance components, DSI calculation, and a synthetic DSI benchmark."
-
+abstract: "Reproducible Python implementation of fault-surface attribution, Monte Carlo robustness, null-model specificity, DSI screening, grouped margin-diagnostic validation, out-of-distribution testing, REML residual diagnosis, LOSO predictive comparison of alternative fault geometries, and predictive admissible-set analysis."

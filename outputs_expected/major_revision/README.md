@@ -18,21 +18,24 @@ identical.
   and threshold diagnostics.
 - `phase3/`: frozen OOD scenarios, predictions, diagnostic performance,
   calibration, thresholds, and ID-versus-OOD comparison.
-- `phase5/`: frozen LOSO errors, family summary, admissible model set,
-  and depthwise geometry spread.
+- `phase5/`: frozen LOSO errors, family summary, and admissible model set.
+- `depthwise_geometry_spread_expected.csv`: coordinate-free eight-row summary
+  of median and maximum across-model lateral divergence by fault and depth.
 
-The Phase 5 `depthwise_geometry_spread.csv` is a public-derived frozen table:
-the absolute `Y_m` and model `x_*_m` columns received the same fixed XY
-translation as the public inputs. Depth, elevation, `x_spread_m`, admissible
-models, and all comparison statistics are unchanged.
+No expected-output table contains along-strike sample positions or individual
+model X coordinates. Those fields are unnecessary for reproducing the reported
+depthwise divergence and are deliberately excluded from the public freeze.
 
 ## Commands from the repository root
 
 ```powershell
-python scripts/major_revision/run_phase1_phase2.py --seed 20260806 --output-root outputs/major_revision
-python scripts/major_revision/run_phase3_ood.py --seed 20260806 --output-root outputs/major_revision
-python scripts/major_revision/run_phase5_geometry.py --seed 20260806 --output-root outputs/major_revision
+python scripts/major_revision/run_diagnostic_validation.py --seed 20260806 --output-root outputs/major_revision
+python scripts/major_revision/run_ood_validation.py --seed 20260806 --output-root outputs/major_revision
+python scripts/major_revision/run_loso_geometry_comparison.py --seed 20260806 --output-root outputs/major_revision
 ```
+
+Alternatively, run all three in order with
+`python scripts/major_revision/reproduce_major_revision.py --seed 20260806 --output-root outputs/major_revision`.
 
 Phase 5 is deterministic; its seed is accepted and recorded for a uniform CLI.
 It reads only the two public-derived geometry CSV files and has no GeoPandas,

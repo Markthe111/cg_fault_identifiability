@@ -12,18 +12,22 @@ reproduction scripts.
 
 The same fixed XY translation was applied to every point and trace vertex.
 Elevation (`Z`), section membership, fault labels, and all non-coordinate
-attributes were retained. The published X/Y values are therefore local
-translated metre coordinates, not valid EPSG:4536 positions. The translation
-offset is intentionally not distributed because it would reconstruct the
-survey coordinates.
+attributes were retained. The published X/Y values are therefore arbitrary
+local translated metre coordinates, not survey-coordinate positions. The
+translation offset, source CRS link, and coordinate crosswalk are intentionally
+not distributed.
 
 This translation preserves relative distances, fitted residuals, per-section
 LOSO errors, model admission, and across-model lateral spread, up to floating-
-point roundoff. The source shapefiles, DEM, and original EPSG:4536 point table
-are not required by the public Phase 5 script.
+point roundoff. The source shapefiles, DEM, and original survey-coordinate point
+table are not required by the public Phase 5 script.
 
 ## Diagnostic input
 
-`canonical_distance_metrics_pointwise.csv` is the coordinate-free frozen
-distance-metric input used by `run_phase1_phase2.py` for the real-case metric
-comparison. It contains no X/Y coordinate columns.
+`diagnostic/canonical_distance_metrics_pointwise.csv` is the coordinate-free
+frozen distance-metric input used by `run_diagnostic_validation.py` for the
+real-case metric comparison. It contains no X/Y coordinate columns.
+
+The frozen independent synthetic OOD scenarios are stored under `ood/`. The
+LOSO script reads the translated point and trace tables under
+`loso_coordinate_shifted/`; no private GIS input is required.

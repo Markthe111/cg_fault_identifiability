@@ -122,8 +122,8 @@ def main(seed: int, output_root: Path) -> None:
     output_root = output_root.resolve()
     p1 = output_root / "phase1"
     p2 = output_root / "phase2"
-    syn_path = REPO_ROOT / "data" / "synthetic_benchmark" / "DSI_BENCHMARK_RAW_RESULTS.csv"
-    canonical_metrics_path = REPO_ROOT / "data" / "major_revision" / "canonical_distance_metrics_pointwise.csv"
+    syn_path = REPO_ROOT / "data" / "major_revision" / "diagnostic" / "DSI_BENCHMARK_RAW_RESULTS.csv"
+    canonical_metrics_path = REPO_ROOT / "data" / "major_revision" / "diagnostic" / "canonical_distance_metrics_pointwise.csv"
     p1.mkdir(parents=True, exist_ok=True)
     p2.mkdir(parents=True, exist_ok=True)
     raw = pd.read_csv(syn_path)

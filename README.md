@@ -1,132 +1,47 @@
-﻿# cg_fault_identifiability
+# cg_fault_identifiability
 
-Reproducible Python code for the Computers & Geosciences manuscript on
-claim-specific fault-domain identifiability.
+Open and reproducible Python implementation for claim-specific identifiability auditing in sparse 3-D structural models.
 
-The package implements the deterministic analysis components described in the
-paper:
+## Workflow
 
-- Eq. 1: planar fault-surface extrusion from a mapped trace and attitude
-- Eq. 2: nearest-fault / Voronoi-style ore-domain attribution
-- 500 fixed-seed Monte Carlo perturbation logic for assignment stability
-- Eq. 3: random-fault and real-fault-rank null models
-- Eq. 4: leave-one-section-out residual summaries and REML variance components
-- Eq. 5: Domain-Separation Index (DSI)
-- Synthetic DSI benchmark tables and operating-region calibration
+1. **Fault-domain attribution audit** — finite fault surfaces, nearest-surface attribution, Monte Carlo robustness, random-fault null, mapped-fault ranking, and plan-view DSI screening.
+2. **Diagnostic validation** — an 18,000-scenario synthetic benchmark, grouped held-out validation, distance-difference margins, logistic calibration, and 3,000 independent OOD scenarios with no OOD refitting, recalibration, or retuning.
+3. **Deep-geometry identifiability** — REML residual diagnosis, LOSO comparison of alternative geometries, a 1-SE predictive admissible set, depthwise divergence, and coordinate-shifted public derived tables.
 
-The repository is prepared for public release. It does not include restricted
-raw drillhole, trench, mine-license, or proprietary GIS data. Public example and
-derived tables are sufficient to rerun the open synthetic benchmark and inspect
-the real-case DSI overlay used in the manuscript.
+The manuscript Eq. 5 plan-view DSI is
 
-## Installation
+`distance to nearest competing named fault / distance to expected associated fault`.
 
-```bash
-conda env create -f environment.yml
-conda activate cg_fault_identifiability
-```
+It is not a generic nearest-neighbor ratio. The frozen real-case primary point set contains 48 MZ-I points and 72 MZ-II points.
 
-or:
+## Reproduce manuscript-facing open results
+
+Install Python 3.10 or newer and the package dependencies:
 
 ```bash
 python -m pip install -e ".[test]"
-```
-
-## Fixed random seeds
-
-The reproducibility scripts use fixed seeds. The main synthetic benchmark uses
-`seed_base = 20260705` unless overridden in a local configuration.
-
-## Repository layout
-
-```text
-cg_fault_identifiability/
-  README.md
-  LICENSE
-  CITATION.cff
-  environment.yml
-  requirements.txt
-  pyproject.toml
-  src/cg_fault_identifiability/
-    fault_surface.py      # Eq. 1 public-facing wrapper
-    geometry.py           # original geometry implementation
-    attribution.py        # Eq. 2 nearest-fault attribution
-    monte_carlo.py        # public-facing Monte Carlo wrapper
-    perturbation.py       # original perturbation implementation
-    null_models.py        # Eq. 3 null models
-    variance.py           # Eq. 4 public-facing wrapper
-    reml.py               # original REML implementation
-    dsi.py                # Eq. 5 DSI
-    benchmark.py          # synthetic DSI benchmark
-    synthetic.py          # demo-data generation
-    validation.py         # LOSO-style validation helpers
-    plotting.py           # plotting helpers
-  scripts/
-    run_synthetic_demo.py
-    run_dsi_benchmark.py
-    reproduce_all_synthetic.py
-  data/
-    synthetic_benchmark/
-    real_case_public_derived/
-  demo/
-  tests/
-  reports/
-```
-
-## Reproduce the open synthetic results
-
-Quick smoke run:
-
-```bash
-python scripts/run_synthetic_demo.py
-python scripts/run_dsi_benchmark.py --quick
-```
-
-Full synthetic package:
-
-```bash
 python scripts/reproduce_all_synthetic.py
+python scripts/major_revision/reproduce_major_revision.py --seed 20260806 --output-root outputs/major_revision
 ```
 
-Expected outputs are written under `outputs_expected/` or script-local output
-folders. The 18,000-record synthetic benchmark table is included in
-`data/synthetic_benchmark/DSI_BENCHMARK_RAW_RESULTS.csv`.
-
-## Reproduce manuscript-facing tables/figures from open data
-
-The public repository includes:
-
-- `data/synthetic_benchmark/DSI_BENCHMARK_RAW_RESULTS.csv`
-- `data/synthetic_benchmark/DSI_BENCHMARK_SUMMARY_BY_BIN.csv`
-- `data/synthetic_benchmark/DSI_OPERATING_REGIONS.csv`
-- `data/real_case_public_derived/REAL_CASE_DSI_POSITION_IN_SYNTHETIC_BENCHMARK_CORRECTED.csv`
-- `data/real_case_public_derived/REAL_CASE_PAIRWISE_3D_SEPARATION_RATIO_SUPPLEMENT.csv`
-- `figures/Fig_B5_real_case_on_synthetic_DSI_curve_CORRECTED.*`
-
-The corrected real-case DSI values follow Eq. 5: plan-distance ratio to the
-nearest competing named fault divided by the associated-fault distance. The
-pairwise 3-D F2-F7 distance ratio is retained only as a supplementary metric and
-is not used as the manuscript DSI.
-
-## Restricted source data
-
-The real Sitaihaiquan drillhole/trench logs, raw ore-point coordinates, and
-original mine GIS inputs are not included because of mineral-rights and project
-data restrictions. Derived, manuscript-facing summary tables are included where
-they can be released. Raw data are available on reasonable request subject to
-permission from the data owners.
-
-## Tests
+The major-revision phases may also be run separately:
 
 ```bash
-pytest
+python scripts/major_revision/run_diagnostic_validation.py --seed 20260806 --output-root outputs/major_revision
+python scripts/major_revision/run_ood_validation.py --seed 20260806 --output-root outputs/major_revision
+python scripts/major_revision/run_loso_geometry_comparison.py --seed 20260806 --output-root outputs/major_revision
 ```
 
-The tests cover geometry extrusion, nearest-fault attribution, DSI
-classification, and null-model helpers.
+Expected manuscript-facing outputs are under `outputs_expected/major_revision/` and are checked by the test suite.
 
-## Citation
+## Data scope and confidentiality
 
-See `CITATION.cff`. The repository URL is:
-`https://github.com/Markthe111/cg_fault_identifiability`.
+Synthetic benchmark and OOD data are public. The real-case DSI table contains anonymized identifiers and derived plan distances only. Raw mine coordinates are not included. LOSO tables use translated arbitrary local coordinates; the translation origin and its crosswalk are intentionally not distributed. Relative geometry required by the analysis is preserved.
 
+## Interpretation boundary
+
+The workflow audits whether evidence supports a stated fault-domain or deep-geometry claim within declared candidate sets. A locally closer plan-view competitor is not, by itself, a 3-D association or ore-control claim. F2 deep geometry is non-unique within the tested model families; F7 has only three sections and does not support strong model discrimination.
+
+## License and citation
+
+Code is released under the MIT License. See `CITATION.cff` for citation metadata.

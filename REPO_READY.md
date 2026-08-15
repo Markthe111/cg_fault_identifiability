@@ -1,18 +1,21 @@
-﻿# Repository readiness report
+# Public release status
 
-## Local repository path
+## Archived release
 
-Local working directory used for preparation: `cg_fault_identifiability`.
+`cg_fault_identifiability` is publicly available on GitHub. The formal
+manuscript reproducibility archive is **v0.2.0**:
 
-## What was organized
+- GitHub repository: <https://github.com/Markthe111/cg_fault_identifiability>
+- GitHub release: <https://github.com/Markthe111/cg_fault_identifiability/releases/tag/v0.2.0>
+- Zenodo DOI: <https://doi.org/10.5281/zenodo.21898348>
+- License: MIT
 
-The repository was assembled from the existing B1 reproducibility package in
-the author's local project workspace.
+The v0.2.0 scientific results, canonical inputs, expected outputs, definitions,
+seeds, and validation design are frozen. Documentation-only commits made to
+`main` after that release improve navigation and third-party instructions; they
+do not alter the archived v0.2.0 scientific record.
 
-Additional manuscript-facing corrected DSI data were copied from the author's
-local DSI-definition unification output.
-
-## Structure
+## Repository structure
 
 ```text
 cg_fault_identifiability/
@@ -22,89 +25,72 @@ cg_fault_identifiability/
   environment.yml
   requirements.txt
   pyproject.toml
-  SCRIPT_INVENTORY.csv
   docs/
   src/cg_fault_identifiability/
   scripts/
   data/
-  demo/
-  figures/
-  reports/
+  example_data/
+  outputs_expected/
   tests/
 ```
 
 ## Formula-to-code map
 
-- Eq. 1 fault-surface extrusion: `src/cg_fault_identifiability/fault_surface.py`, `geometry.py`
-- Eq. 2 nearest-fault/Voronoi attribution: `src/cg_fault_identifiability/attribution.py`
-- 500-model perturbation logic: `src/cg_fault_identifiability/monte_carlo.py`, `perturbation.py`
+- Eq. 1 fault-surface extrusion: `src/cg_fault_identifiability/fault_surface.py`
+  and `geometry.py`
+- Eq. 2 nearest-fault/Voronoi attribution:
+  `src/cg_fault_identifiability/attribution.py`
+- 500-model perturbation logic: `src/cg_fault_identifiability/monte_carlo.py`
+  and `perturbation.py`
 - Eq. 3 null models: `src/cg_fault_identifiability/null_models.py`
-- Eq. 4 REML variance components: `src/cg_fault_identifiability/variance.py`, `reml.py`
-- Eq. 5 DSI: `src/cg_fault_identifiability/dsi.py`
-- 18,000-record synthetic benchmark: `src/cg_fault_identifiability/benchmark.py`, `scripts/run_dsi_benchmark.py`
-- Grouped diagnostic validation: `scripts/major_revision/run_diagnostic_validation.py`
-- Independent OOD validation without OOD retuning: `scripts/major_revision/run_ood_validation.py`
-- LOSO alternative-geometry comparison: `scripts/major_revision/run_loso_geometry_comparison.py`
-- Major-revision master entry point: `scripts/major_revision/reproduce_major_revision.py`
+- Eq. 4 REML variance components: `src/cg_fault_identifiability/variance.py`
+  and `reml.py`
+- Eq. 5 plan-view DSI: `src/cg_fault_identifiability/dsi.py`
+- 18,000-record synthetic benchmark: `src/cg_fault_identifiability/benchmark.py`
+  and `scripts/run_dsi_benchmark.py`
+- Grouped diagnostic validation:
+  `scripts/major_revision/run_diagnostic_validation.py`
+- Independent OOD validation without OOD retuning:
+  `scripts/major_revision/run_ood_validation.py`
+- LOSO alternative-geometry comparison:
+  `scripts/major_revision/run_loso_geometry_comparison.py`
+- Major-revision master entry point:
+  `scripts/major_revision/reproduce_major_revision.py`
 
-## Public data included
+## Public data boundary
 
-- Synthetic benchmark raw and summary tables under `data/synthetic_benchmark/`
-- Corrected Eq. 5 real-case DSI overlay under `data/real_case_public_derived/`
-- Supplementary pairwise 3-D separation ratio table, explicitly not used as DSI
-- Figure-support fault parameters and derived domain-assignment point table
-- Frozen 3,000-scenario synthetic OOD table
-- Translated local-coordinate LOSO inputs with no distributed translation origin
-- Frozen major-revision expected outputs and numerical tests
+The public repository includes synthetic inputs and outputs, coordinate-free
+diagnostic metrics, anonymized real-case derived distance summaries, and
+privacy-safe LOSO geometry inputs in an arbitrary translated local coordinate
+frame. The canonical real-case primary set is fixed at 48 MZ-I points and 72
+MZ-II points.
 
-Restricted original drillhole/trench logs, proprietary GIS layers, and raw mine
-data are excluded.
+The public material is sufficient to run the documented synthetic, grouped
+diagnostic, OOD, and LOSO workflows and to compare their products with the
+frozen expected outputs.
 
-## GitHub upload steps
+## Restricted data boundary
 
-1. Create an empty GitHub repository named `cg_fault_identifiability`.
-2. Confirm that `CITATION.cff` and `README.md` use:
-   `https://github.com/Markthe111/cg_fault_identifiability`.
-3. Commit the repository:
-   ```bash
-   git add .
-   git commit -m "Prepare cg_fault_identifiability reproducibility package"
-   ```
-4. Add the remote and push:
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/Markthe111/cg_fault_identifiability.git
-   git push -u origin main
-   ```
+Restricted drillhole and trench logs, original section digitization, mine-site
+survey coordinates, proprietary GIS layers, and the information needed to map
+the public local coordinate frame back to a mine location are not distributed.
+No privacy-sensitive recovery is required or supported by the public workflow.
 
-## Zenodo DOI steps
+## Interpretation boundary
 
-1. Log in to Zenodo with the GitHub-linked account.
-2. Open Zenodo > GitHub integration.
-3. Enable archiving for `cg_fault_identifiability`.
-4. Create the reviewed GitHub release for version `v0.2.0`.
-5. Zenodo will archive that release and mint a DOI.
-6. Add the DOI badge to `README.md` and update `CITATION.cff` with the DOI.
-7. For manuscript submission, cite the Zenodo DOI, not only the GitHub URL.
+The repository supports claim-specific identifiability auditing within the
+declared candidate sets. Eq. 5 DSI is a plan-view screening diagnostic, not a
+full 3-D association rule or a universal geological law. Grouped held-out,
+independent OOD, and LOSO results answer different validation questions and
+must not be conflated. Deep-geometry conclusions are limited to the tested
+candidate families and available sections.
 
-## Missing or limited items
+## Release maintenance policy
 
-- A public standalone real-data 500-model Monte Carlo script independent of
-  restricted project paths was not found. Public fixed-seed logic is included in
-  `monte_carlo.py`.
-- A public script reproducing every manuscript figure from only unrestricted
-  data was not found. Corrected Fig. B5 and synthetic benchmark reproduction are
-  included.
-- Raw exploration data are intentionally excluded and should remain out of the
-  public repository.
-
-## Current readiness status
-
-`PUBLIC_RELEASE_V2_INTEGRATED_LOCAL_ONLY`
-
-Manual steps remaining:
-
-- Review the local `submission-release-v2` commit and release-candidate tag.
-- Push to GitHub only after author approval.
-- Create the GitHub release and publish a new Zenodo version.
-
+- v0.2.0 remains the formal archived scientific release.
+- The v0.2.0 tag and GitHub Release are not moved or rebuilt.
+- Zenodo DOI `10.5281/zenodo.21898348` remains the archive citation.
+- No later documentation-only `main` commit is part of v0.2.0 unless a reader
+  explicitly checks out that later commit instead of the archived tag.
+- A documentation clarification does not create a new scientific release or a
+  new Zenodo archive.

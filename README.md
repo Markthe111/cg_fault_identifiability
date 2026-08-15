@@ -34,6 +34,17 @@ python scripts/major_revision/run_loso_geometry_comparison.py --seed 20260806 --
 
 Expected manuscript-facing outputs are under `outputs_expected/major_revision/` and are checked by the test suite.
 
+## Documentation
+
+- [User guide](docs/USER_GUIDE.md)
+- [Minimal reproduction tutorial](docs/TUTORIAL.md)
+- [Input schema](docs/input_schema.md)
+- [Major-revision reproduction](docs/major_revision_reproduction.md)
+- [Method notes](docs/method_notes.md)
+- [Reproducibility notes](docs/reproducibility_notes.md)
+
+Zenodo DOI: [10.5281/zenodo.21898348](https://doi.org/10.5281/zenodo.21898348)
+
 ## Data scope and confidentiality
 
 Synthetic benchmark and OOD data are public. The real-case DSI table contains anonymized identifiers and derived plan distances only. Raw mine coordinates are not included. LOSO tables use translated arbitrary local coordinates; the translation origin and its crosswalk are intentionally not distributed. Relative geometry required by the analysis is preserved.

@@ -13,5 +13,6 @@ authors:
   - family-names: Luo
     given-names: Jinhui
 repository-code: "https://github.com/Markthe111/cg_fault_identifiability"
+doi: 10.5281/zenodo.21898348
 license: MIT
 abstract: "Reproducible Python implementation of fault-surface attribution, Monte Carlo robustness, null-model specificity, DSI screening, grouped margin-diagnostic validation, out-of-distribution testing, REML residual diagnosis, LOSO predictive comparison of alternative fault geometries, and predictive admissible-set analysis."

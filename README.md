@@ -27,6 +27,36 @@ git clone https://github.com/Markthe111/cg_fault_identifiability.git
 cd cg_fault_identifiability
 git checkout v0.2.0
 
+## Associated manuscript
+
+**Auditing claim-specific identifiability in sparse 3-D structural models:
+robust fault-domain attribution despite non-unique deep geometry**
+
+Authors: Fuyuan Xie, Yuhua Chen, Yongguo Yang, and Jinhui Luo.
+
+Corresponding author: Yuhua Chen  
+School of Resources and Geosciences, China University of Mining and Technology,  
+Xuzhou 221116, China  
+E-mail: chenyuhua@cumt.edu.cn
+
+## Archived manuscript release
+
+The formal manuscript reproducibility release is **v0.2.0**.
+
+- Zenodo DOI: `10.5281/zenodo.21898348`
+- Python: >= 3.10
+- License: MIT
+
+The scientific code, canonical inputs, expected outputs, seeds, and validation design are frozen in v0.2.0. Later commits on `main` contain documentation clarifications only and do not alter the archived scientific results.
+
+## Quick verification
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Markthe111/cg_fault_identifiability.git
+cd cg_fault_identifiability
+
 ## Workflow
 
 1. **Fault-domain attribution audit** — finite fault surfaces, nearest-surface attribution, Monte Carlo robustness, random-fault null, mapped-fault ranking, and plan-view DSI screening.

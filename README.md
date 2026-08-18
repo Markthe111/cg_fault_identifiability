@@ -4,33 +4,7 @@ Open and reproducible Python implementation for claim-specific identifiability a
 
 ## Associated manuscript
 
-**Auditing claim-specific identifiability in sparse 3-D structural models:
-robust fault-domain attribution despite non-unique deep geometry**
-
-## Archived manuscript release
-
-The formal manuscript reproducibility release is **v0.2.0**.
-
-- GitHub release: `v0.2.0`
-- Zenodo DOI: https://doi.org/10.5281/zenodo.21898348
-- Python: >= 3.10
-- License: MIT
-
-The scientific results, canonical inputs, expected outputs, seeds, and validation design in `v0.2.0` are frozen. Later commits on `main` contain documentation clarifications only and do not alter the archived scientific release.
-
-## Quick verification
-
-Clone the repository and check out the archived manuscript release:
-
-```bash
-git clone https://github.com/Markthe111/cg_fault_identifiability.git
-cd cg_fault_identifiability
-git checkout v0.2.0
-```
-## Associated manuscript
-
-**Auditing claim-specific identifiability in sparse 3-D structural models:
-robust fault-domain attribution despite non-unique deep geometry**
+**Auditing claim-specific identifiability in sparse 3-D structural models: robust fault-domain attribution despite non-unique deep geometry**
 
 Authors: Fuyuan Xie, Yuhua Chen, Yongguo Yang, and Jinhui Luo.
 
@@ -43,19 +17,46 @@ E-mail: chenyuhua@cumt.edu.cn
 
 The formal manuscript reproducibility release is **v0.2.0**.
 
-- Zenodo DOI: `10.5281/zenodo.21898348`
+- GitHub release: https://github.com/Markthe111/cg_fault_identifiability/releases/tag/v0.2.0
+- Zenodo DOI: https://doi.org/10.5281/zenodo.21898348
 - Python: >= 3.10
 - License: MIT
 
-The scientific code, canonical inputs, expected outputs, seeds, and validation design are frozen in v0.2.0. Later commits on `main` contain documentation clarifications only and do not alter the archived scientific results.
+The scientific code, canonical inputs, expected outputs, seeds, and validation design in `v0.2.0` are frozen. Later commits on `main` contain documentation clarifications only and do not alter the archived scientific results.
 
 ## Quick verification
 
-Clone the repository:
+Clone the repository and check out the archived manuscript release:
 
 ```bash
 git clone https://github.com/Markthe111/cg_fault_identifiability.git
 cd cg_fault_identifiability
+git checkout v0.2.0
+```
+
+Install the package and test dependencies:
+
+```bash
+python -m pip install -e ".[test]"
+```
+
+Run the public test suite:
+
+```bash
+pytest -q
+```
+
+Run the complete manuscript-facing public reproduction:
+
+```bash
+python scripts/major_revision/reproduce_major_revision.py --seed 20260806 --output-root outputs/major_revision
+```
+
+A successful major-revision reproduction prints:
+
+`MAJOR_REVISION_REPRODUCTION_PASS`
+
+The frozen scientific release is `v0.2.0`. Expanded user and reproduction documentation is maintained on `main`.
 
 ## Workflow
 
@@ -75,7 +76,23 @@ Install Python 3.10 or newer and the package dependencies:
 
 ```bash
 python -m pip install -e ".[test]"
+```
+
+Run the public test suite:
+
+```bash
+pytest -q
+```
+
+Run the synthetic demonstration and benchmark:
+
+```bash
 python scripts/reproduce_all_synthetic.py
+```
+
+Run the manuscript-facing grouped validation, OOD validation, and LOSO geometry comparison:
+
+```bash
 python scripts/major_revision/reproduce_major_revision.py --seed 20260806 --output-root outputs/major_revision
 ```
 
@@ -98,16 +115,30 @@ Expected manuscript-facing outputs are under `outputs_expected/major_revision/` 
 - [Method notes](docs/method_notes.md)
 - [Reproducibility notes](docs/reproducibility_notes.md)
 
-Zenodo DOI: [10.5281/zenodo.21898348](https://doi.org/10.5281/zenodo.21898348)
-
 ## Data scope and confidentiality
 
-Synthetic benchmark and OOD data are public. The real-case DSI table contains anonymized identifiers and derived plan distances only. Raw mine coordinates are not included. LOSO tables use translated arbitrary local coordinates; the translation origin and its crosswalk are intentionally not distributed. Relative geometry required by the analysis is preserved.
+Synthetic benchmark and OOD data are public. Real-case public tables contain anonymized derived distances or privacy-safe geometry in an arbitrary translated local coordinate frame. Raw mine coordinates, original section interpretations, proprietary GIS layers, and other restricted exploration source data are not distributed. Access to restricted source data is subject to permission from the data owner.
+
+The translation origin and its crosswalk are intentionally not distributed. Relative geometry required by the public analyses is preserved.
 
 ## Interpretation boundary
 
-The workflow audits whether evidence supports a stated fault-domain or deep-geometry claim within declared candidate sets. A locally closer plan-view competitor is not, by itself, a 3-D association or ore-control claim. F2 deep geometry is non-unique within the tested model families; F7 has only three sections and does not support strong model discrimination.
+The workflow audits whether evidence supports a stated fault-domain or deep-geometry claim within declared candidate sets.
+
+Eq. 5 DSI is a plan-view screening diagnostic and is not a full 3-D association rule or a universal geological threshold. A locally closer plan-view competitor is not, by itself, evidence of 3-D association, ore control, or causality.
+
+F2 deep geometry is non-unique within the tested candidate model families. F7 has only three sections and therefore does not support strong deep-geometry model discrimination.
+
+Grouped held-out validation, independent OOD validation, and LOSO comparison address different validation questions and should not be conflated.
 
 ## License and citation
 
-Code is released under the MIT License. See `CITATION.cff` for citation metadata.
+Code is released under the MIT License.
+
+Formal archived release:
+
+**Xie, F., Chen, Y., Yang, Y., and Luo, J. `cg_fault_identifiability: claim-specific fault-domain identifiability diagnostics`, v0.2.0. Zenodo.**
+
+DOI: https://doi.org/10.5281/zenodo.21898348
+
+Machine-readable citation metadata are provided in `CITATION.cff`.

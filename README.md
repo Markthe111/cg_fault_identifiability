@@ -2,6 +2,31 @@
 
 Open and reproducible Python implementation for claim-specific identifiability auditing in sparse 3-D structural models.
 
+## Associated manuscript
+
+**Auditing claim-specific identifiability in sparse 3-D structural models:
+robust fault-domain attribution despite non-unique deep geometry**
+
+## Archived manuscript release
+
+The formal manuscript reproducibility release is **v0.2.0**.
+
+- GitHub release: `v0.2.0`
+- Zenodo DOI: https://doi.org/10.5281/zenodo.21898348
+- Python: >= 3.10
+- License: MIT
+
+The scientific results, canonical inputs, expected outputs, seeds, and validation design in `v0.2.0` are frozen. Later commits on `main` contain documentation clarifications only and do not alter the archived scientific release.
+
+## Quick verification
+
+Clone the repository and check out the archived manuscript release:
+
+```bash
+git clone https://github.com/Markthe111/cg_fault_identifiability.git
+cd cg_fault_identifiability
+git checkout v0.2.0
+
 ## Workflow
 
 1. **Fault-domain attribution audit** — finite fault surfaces, nearest-surface attribution, Monte Carlo robustness, random-fault null, mapped-fault ranking, and plan-view DSI screening.

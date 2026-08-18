@@ -14,7 +14,7 @@ reproducible code review.
 
 Restricted raw drillhole logs, trench logs, original section digitization files,
 mine-license GIS layers, and proprietary exploration data are not included.
-These data are available on reasonable request subject to owner permission.
+Access to these restricted source data is subject to permission from the data owner.
 
 ## Provenance note
 

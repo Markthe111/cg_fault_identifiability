@@ -26,7 +26,7 @@ Clone the repository and check out the archived manuscript release:
 git clone https://github.com/Markthe111/cg_fault_identifiability.git
 cd cg_fault_identifiability
 git checkout v0.2.0
-
+```
 ## Associated manuscript
 
 **Auditing claim-specific identifiability in sparse 3-D structural models:
